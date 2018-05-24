@@ -1,48 +1,48 @@
 Legea nr. 227/2015 privind Codul fiscal
-ultima actualizare : Ordonanța de urgență a Guvernului nr. 25/2018 din 29 martie 2018
+ultima actualizare : Legea nr. 111/2018 din 16 mai 2018
 
 Ediție adnotată cu Normele metodologice aprobate prin H.G. 1/2016,
 ultima actualizare : Hotărârea Guvernului nr. 284 din 27 aprilie 2017
 
 precum și cu ordinele pentru aplicarea Codului fiscal
-emise până la data de 11 mai 2018
+emise până la data de 18 mai 2018
 
 Textul este actualizat prin mijloace informatice și nu reprezintă o republicare.
 ATENȚIE! Textul urmează a fi actualizat cu prevederile legale date în aplicarea Codului fiscal.
 
 
 
-TITLUL I - Dispoziții generale
+TITLUL I - Dispoziții generale (art. 1 - 12)
 
  
-TITLUL II - Impozitul pe profit
+TITLUL II - Impozitul pe profit (art. 13 - 46)
 
  
 TITLUL III - Impozitul pe venitul microîntreprinderilor (art. 47 - 57)
 
  
-TITLUL IV - Impozitul pe venit
+TITLUL IV - Impozitul pe venit (art. 58 - 134)
 
  
-TITLUL V - Contribuții sociale obligatorii
+TITLUL V - Contribuții sociale obligatorii (art. 135 - 2207)
 
  
-TITLUL VI - Impozitul pe veniturile obținute din România de nerezidenți și impozitul pe reprezentanțele firmelor străine înființate în România
+TITLUL VI - Impozitul pe veniturile obținute din România de nerezidenți și impozitul pe reprezentanțele firmelor străine înființate în România (art. 221 - 264)
 
  
-TITLUL VII - Taxa pe valoarea adăugată
+TITLUL VII - Taxa pe valoarea adăugată (art. 265 - 334)
 
  
-TITLUL VIII - Accize și alte taxe speciale
+TITLUL VIII - Accize și alte taxe speciale (art. 335 - 452)
 
  
-TITLUL IX - Impozite și taxe locale
+TITLUL IX - Impozite și taxe locale (art. 453 - 4951)
 
  
-TITLUL X - Impozitul pe construcții
+TITLUL X - Impozitul pe construcții (art. 496 - 500)
 
  
-TITLUL XI - Dispoziții finale
+TITLUL XI - Dispoziții finale (art. 501 - 503)
 
 
 
@@ -11023,7 +11023,7 @@ r) clădirile aflate în proprietatea sau coproprietatea veteranilor de război,
 
 s) clădirea folosită ca domiciliu aflată în proprietatea sau coproprietatea persoanelor prevăzute la art. 1 al Decretului-lege nr. 118/1990, republicat, cu modificările și completările ulterioare, și a persoanelor fizice prevăzute la art. 1 din Ordonanța Guvernului nr. 105/1999, aprobată cu modificări și completări prin Legea nr. 189/2000, cu modificările și completările ulterioare;
 
-t) clădirea folosită ca domiciliu aflată în proprietatea sau coproprietatea persoanelor cu handicap grav sau accentuat și a persoanelor încadrate în gradul I de invaliditate, respectiv a reprezentanților legali ai minorilor cu handicap grav sau accentuat și ai minorilor încadrați în gradul I de invaliditate;
+t) clădirea folosită ca domiciliu aflată în proprietatea sau coproprietatea persoanelor cu handicap grav sau accentuat și a persoanelor încadrate în gradul I de invaliditate, respectiv a reprezentanților legali, pe perioada în care au în îngrijire, supraveghere și întreținere persoane cu handicap grav sau accentuat și persoane încadrate în gradul I de invaliditate;
 
 u) clădirile aflate în proprietatea organizațiilor cetățenilor aparținând minorităților naționale din România, cu statut de utilitate publică, precum și cele închiriate, concesionate sau primite în administrare ori în folosință de acestea de la o instituție sau o autoritate publică, cu excepția încăperilor care sunt folosite pentru activități economice;
 
@@ -11077,7 +11077,9 @@ r) clădirile deținute de asociațiile de dezvoltare intercomunitară.
 
 a) scutirea se acordă integral pentru clădirile aflate în proprietatea persoanelor menționate la alin. (1) lit. r), deținute în comun cu soțul sau soția. În situația în care o cotă-parte din clădiri aparține unor terți, scutirea nu se acordă pentru cota-parte deținută de acești terți;
 
-b) scutirea se acordă pentru întreaga clădire de domiciliu deținută în comun cu soțul sau soția, pentru clădirile aflate în proprietatea persoanelor menționate la alin. (1) lit. s) și t). În situația în care o cotă-parte din clădirea de domiciliu aparține unor terți, scutirea nu se acordă pentru cota-parte deținută de acești terți.
+b) scutirea se acordă pentru întreaga clădire de domiciliu deținută în comun cu soțul sau soția, pentru clădirile aflate în proprietatea persoanelor menționate la alin. (1) lit. s) și t). În situația în care o cotă-parte din clădirea de domiciliu aparține unor terți, scutirea nu se acordă pentru cota-parte deținută de acești terți;
+
+(6) Scutirea de la plata impozitului/taxei pe clădiri, stabilită conform alin. (1) lit. t), se aplică începând cu data de 1 a lunii următoare celei în care persoana depune documentele justificative.
 
 ART. 457 - Calculul impozitului pe clădirile rezidențiale aflate în proprietatea persoanelor fizice
 
@@ -11312,7 +11314,7 @@ r) terenurile aflate în proprietatea sau coproprietatea veteranilor de război,
 
 s) terenul aferent clădirii de domiciliu, aflat în proprietatea sau coproprietatea persoanelor prevăzute la art. 1 al Decretului-lege nr. 118/1990, republicat, cu modificările și completările ulterioare, și a persoanelor fizice prevăzute la art. 1 din Ordonanța Guvernului nr. 105/1999, aprobată cu modificări și completări prin Legea nr. 189/2000, cu modificările și completările ulterioare;
 
-t) terenul aferent clădirii de domiciliu, aflat în proprietatea sau coproprietatea persoanelor cu handicap grav sau accentuat și a persoanelor încadrate în gradul I de invaliditate, respectiv a reprezentanților legali ai minorilor cu handicap grav sau accentuat și ai minorilor încadrați în gradul I de invaliditate;
+t) terenul aferent clădirii de domiciliu, aflat în proprietatea sau coproprietatea persoanelor cu handicap grav sau accentuat și a persoanelor încadrate în gradul I de invaliditate, respectiv a reprezentanților legali, pe perioada în care au în îngrijire, supraveghere și întreținere persoane cu handicap grav sau accentuat și persoane încadrate în gradul I de invaliditate;
 
 u) terenurile aflate în proprietatea sau coproprietatea persoanelor prevăzute la art. 2 lit. a), c) - e) din Ordonanța de urgență a Guvernului nr. 82/2006, cu modificările și completările ulterioare;
 
@@ -11375,6 +11377,8 @@ s) potrivit legii, consiliile locale pot reduce impozitul pe suprafețele necons
 a) scutirea se acordă integral pentru terenurile aflate în proprietatea persoanelor prevăzute la alin. (1) lit. r), deținute în comun cu soțul sau soția. În situația în care o cotă-parte din teren aparține unor terți, scutirea nu se acordă pentru cota-parte deținută de acești terți;
 
 b) scutirea se acordă pentru terenul aferent clădirii de domiciliu aflate în proprietatea persoanelor prevăzute la alin. (1) lit. s) și t), deținute în comun cu soțul sau soția. În situația în care o cotă-parte din terenul respectiv aparține unor terți, scutirea nu se acordă pentru cota-parte deținută de acești terți.
+
+(6) Scutirea de la plata impozitului/taxei pe teren, stabilită conform alin. (1) lit. t), se aplică începând cu data de 1 a lunii următoare celei în care persoana depune documentele justificative.
 
 ART. 465 - Calculul impozitului/taxei pe teren
 
@@ -11513,7 +11517,7 @@ ART. 469 - Scutiri
 
 a) mijloacele de transport aflate în proprietatea sau coproprietatea veteranilor de război, văduvelor de război sau văduvelor nerecăsătorite ale veteranilor de război, pentru un singur mijloc de transport, la alegerea contribuabilului;
 
-b) mijloacele de transport aflate în proprietatea sau coproprietatea persoanelor cu handicap grav sau accentuat, cele pentru transportul persoanelor cu handicap sau invaliditate, aflate în proprietatea sau coproprietatea reprezentanților legali ai minorilor cu handicap grav sau accentuat și ai minorilor încadrați în gradul I de invaliditate, pentru un singur mijloc de transport, la alegerea contribuabilului;
+b) mijloacele de transport aflate în proprietatea sau coproprietatea persoanelor cu handicap grav sau accentuat și a persoanelor încadrate în gradul I de invaliditate, respectiv a reprezentanților legali, pe perioada în care au în îngrijire, supraveghere și întreținere persoane cu handicap grav sau accentuat și persoane încadrate în gradul I de invaliditate, pentru un singur mijloc de transport, la alegerea contribuabilului;
 
 c) mijloacele de transport aflate în proprietatea sau coproprietatea persoanelor prevăzute la art. 1 al Decretului-lege nr. 118/1990, republicat, cu modificările și completările ulterioare, și a persoanelor fizice prevăzute la art. 1 din Ordonanța Guvernului nr. 105/1999, aprobată cu modificări și completări prin Legea nr. 189/2000, cu modificările și completările ulterioare, pentru un singur mijloc de transport, la alegerea contribuabilului;
 
@@ -11553,7 +11557,9 @@ a) Hotărârea Guvernului nr. 323/1996 privind aprobarea Programului special pen
 
 b) Hotărârea Guvernului nr. 395/1996 pentru aprobarea Programului special privind unele măsuri și acțiuni pentru sprijinirea dezvoltării economico-sociale a județului Tulcea și a Rezervației Biosferei "Delta Dunării", cu modificările ulterioare.
 
-(5) Scutirile prevăzute la alin. (1) lit. a) - c) se acordă integral pentru un singur mijloc de transport, la alegerea contribuabilului, aflat în proprietatea persoanelor menționate la aceste litere, deținute în comun cu soțul sau soția. În situația în care o cotă-parte din dreptul de proprietate asupra mijlocului de transport aparține unor terți, scutirea nu se acordă pentru cota-parte deținută de acești terți.
+(5) Scutirile prevăzute la alin. (1) lit. a) - c) se acordă integral pentru un singur mijloc de transport, la alegerea contribuabilului, aflat în proprietatea persoanelor menționate la aceste litere, deținute în comun cu soțul sau soția. În situația în care o cotă-parte din dreptul de proprietate asupra mijlocului de transport aparține unor terți, scutirea nu se acordă pentru cota-parte deținută de acești terți;
+
+(6) Scutirea de la plata impozitului pe mijloacele de transport, stabilită conform alin. (1) lit. b), se aplică începând cu data de 1 a lunii următoare celei în care persoana depune documentele justificative.
 
 ART. 470 - Calculul impozitului
 
