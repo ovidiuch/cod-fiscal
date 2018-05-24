@@ -1,11 +1,11 @@
 Legea nr. 227/2015 privind Codul fiscal
-ultima actualizare : Ordonanța Guvernului nr. 4/2017 din 20 iulie 2017
+ultima actualizare : Ordonanța Guvernului nr. 25/2017 din 30 august 2017
 
 Ediție adnotată cu Normele metodologice aprobate prin H.G. 1/2016,
 ultima actualizare : Hotărârea Guvernului nr. 284 din 27 aprilie 2017
 
 precum și cu ordinele pentru aplicarea Codului fiscal
-emise până la data de 21 iulie 2017
+emise până la data de 26 ianuarie 2018
 
 Textul este actualizat prin mijloace informatice și nu reprezintă o republicare.
 Acest text a fost realizat în colaborare cu AJFP Dâmbovița.
@@ -381,6 +381,8 @@ ART. 66 - Stabilirea deducerilor personale și a sumelor fixe
 CAPITOLUL II - Venituri din activități independente
 
 ART. 67 - Definirea veniturilor din activități independente
+
+ART. 671 - Definirea veniturilor din România din activități independente
 
 ART. 68 - Reguli generale de stabilire a venitului net anual din activități independente, determinat în sistem real, pe baza datelor din contabilitate
 
@@ -1515,7 +1517,7 @@ CAPITOLUL I - Scopul și sfera de cuprindere a Codului fiscal
 
 ART. 1 - Scopul și sfera de cuprindere a Codului fiscal
 
-(1) Prezentul cod stabilește: cadrul legal privincd impozitele, taxele și contribuțiile sociale obligatorii prevăzute la art. 2 alin. (2), care sunt venituri ale bugetului de stat, bugetelor locale, bugetului asigurărilor sociale de stat, bugetului Fondului național unic de asigurări sociale de sănătate, bugetului asigurărilor pentru șomaj și fondului de garantare pentru plata creanțelor salariale; contribuabilii care au obligația să plătească aceste impozite, taxe și contribuții sociale; modul de calcul și de plată a acestora; procedura de modificare a acestor impozite, taxe și contribuții sociale. De asemenea, autorizează Ministerul Finanțelor Publice să elaboreze norme metodologice, instrucțiuni și ordine în aplicarea prezentului cod și a legilor de ratificare a convențiilor de evitare a dublei impuneri în aplicare.
+(1) Prezentul cod stabilește: cadrul legal privind impozitele, taxele și contribuțiile sociale obligatorii prevăzute la art. 2 alin. (2), care sunt venituri ale bugetului de stat, bugetelor locale, bugetului asigurărilor sociale de stat, bugetului Fondului național unic de asigurări sociale de sănătate, bugetului asigurărilor pentru șomaj și fondului de garantare pentru plata creanțelor salariale; contribuabilii care au obligația să plătească aceste impozite, taxe și contribuții sociale; modul de calcul și de plată a acestora; procedura de modificare a acestor impozite, taxe și contribuții sociale. De asemenea, autorizează Ministerul Finanțelor Publice să elaboreze norme metodologice, instrucțiuni și ordine în aplicarea prezentului cod și a legilor de ratificare a convențiilor de evitare a dublei impuneri în aplicare.
 
 (2) Cadrul legal de administrare a impozitelor, taxelor și contribuțiilor sociale obligatorii reglementate de prezentul cod este stabilit prin Codul de procedură fiscală.
 
@@ -1595,6 +1597,8 @@ ART. 5 - Norme metodologice, instrucțiuni și ordine
 
 Ordin nr. 1098/2016 pentru abrogarea Ordinului ministrului finanțelor publice nr. 110/2007 privind aprobarea Procedurii de gestionare a documentelor administrative de însoțire, întocmite în cazul deplasării produselor accizabile în regim suspensiv.
 
+Ordinul ministrului finanțelor publice nr. 2331/2017 privind modificarea și completarea Ordinului ministrului finanțelor publice nr. 221/2016 pentru aprobarea configurației Codului de accize și a Nomenclatorului codurilor de produse accizabile armonizate.
+
 (3) Normele metodologice sunt aprobate de Guvern, prin hotărâre, și sunt publicate în Monitorul Oficial al României, Partea I.
 
 (4) Ordinele și instrucțiunile pentru aplicarea unitară a prezentului cod se emit de ministrul finanțelor publice și se publică în Monitorul Oficial al României, Partea I. Ordinele și instrucțiunile referitoare la proceduri de administrare a impozitelor și taxelor reglementate de prezentul cod, datorate bugetului general consolidat, cu excepția bugetelor locale, se emit de președintele Agenției Naționale de Administrare Fiscală, denumită în continuare A.N.A.F. , și se publică în Monitorul Oficial al României, Partea I. Ordinele și instrucțiunile referitoare la proceduri de administrare a impozitelor și taxelor locale, reglementate de prezentul cod, se aprobă prin ordin comun al ministrului finanțelor publice și al ministrului dezvoltării regionale și administrației publice.
@@ -1626,6 +1630,26 @@ Ordin nr. 3737/2016 din 29 decembrie 2016 pentru aprobarea Procedurii de înregi
 Ordinul nr.1718/2017 privind modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr.3695/2016 pentru aprobarea formularelor privind definitivarea impozitului anual pe venit și a contribuțiilor sociale datorate de persoanele fizice.
 
 Ordinul nr.1886/2017 din 27 iunie 2017 pentru modificarea modelului, conținutului și instrucțiunilor de completare ale formularelor 208 "Declarație informativă privind impozitul pe veniturile din transferul proprietăților imobiliare din patrimoniul personal" și 209 "Declarație privind veniturile din transferul proprietăților imobiliare din patrimoniul personal", aprobate prin Ordinul ministrului finanțelor publice și al ministrului justiției nr. 1022/2562/2016
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2399/2017 pentru aprobarea Procedurii privind depunerea și soluționarea cererii pentru aplicarea dispozițiilor art. 111 alin. (2) lit. e) din Legea nr. 227/2015, în cazul în care darea în plată se face pe cale judecătorească, a Procedurii de anulare și restituire, la cererea persoanei fizice, a impozitului pe venitul din transferul dreptului de proprietate imobiliară din patrimoniul personal și accesoriilor aferente acestuia, potrivit prevederilor art. III din Ordonanța de urgență a Guvernului nr. 32/2016 pentru completarea Legii nr. 227/2015 privind Codul fiscal și reglementarea unor măsuri financiar-fiscale, precum și a modelului și conținutului unor formulare.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2883/2017 privind Procedura de stabilire a impozitelor și taxelor datorate în România de către membrii Comandamentelor Forțelor Aliate sau dependenții acestora, pentru articolele care urmează să fie înstrăinate și care au fost achiziționate fără plata impozitelor și taxelor datorate, precum și pentru aprobarea unor formulare
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2899/2017 privind modificarea Ordinului președintelui Agenției Naționale de administrare Fiscală nr. 2012/2016 pentru aprobarea Procedurii de modificare, din oficiu, a vectorului fiscal cu privire la TVA, precum și a modelului și conținutului unor formulare
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2935/2017 privind modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 587/2016 pentru aprobarea modelului și conținutului formularelor utilizate pentru declararea impozitelor și taxelor cu regim de stabilire prin autoimpunere sau reținere la sursă
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3159/2017 pentru aprobarea Procedurii de soluționare a cererilor de rambursare a taxei pe valoarea adăugată formulate de către persoane impozabile neînregistrate și care nu sunt obligate să se înregistreze în scopuri de TVA în România, nestabilite pe teritoriul Uniunii Europene, precum și pentru aprobarea modelului și conținutului unor formulare.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3480/2017 din 4 decembrie 2017 pentru modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3006/2016 privind aprobarea Procedurii de implementare și de administrare a grupului fiscal unic, precum și pentru aprobarea modelului și conținutului unor formulare
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3781/2017 privind modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 587/2016 pentru aprobarea modelului și conținutului formularelor utilizate pentru declararea impozitelor și taxelor cu regim de stabilire prin autoimpunere sau reținere la sursă.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3726/2017 pentru modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3695/2016 pentru aprobarea formularelor privind definitivarea impozitului anual pe venit și a contribuțiilor sociale datorate de persoanele fizice.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3780/2017 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 4160/2017 privind modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3386/2016 pentru aprobarea modelului și conținutului formularelor 101 "Declarație privind impozitul pe profit" și 120 "Decont privind accizele".
 
 (5) Sub sancțiunea nulității absolute, instituțiile publice din subordinea Guvernului, altele decât Ministerul Finanțelor Publice, nu pot elabora și emite norme care să aibă legătură cu prevederile prezentului cod, cu excepția celor prevăzute în prezentul cod.
 
@@ -2488,6 +2512,8 @@ Cheltuielile care intră sub incidența acestor prevederi nu includ cheltuielile
 Norme metodologice
 
 m) cheltuielile de funcționare, întreținere și reparații, aferente autoturismelor folosite de persoanele cu funcții de conducere și de administrare ale persoanei juridice, deductibile limitat potrivit lit. l) la un singur autoturism aferent fiecărei persoane cu astfel de atribuții.
+
+n) cheltuielile reprezentând valoarea creanțelor înstrăinate, potrivit legii, în limita unui plafon de 30% din valoarea creanțelor înstrăinate.
 
 (4) Următoarele cheltuieli nu sunt deductibile:
 
@@ -3807,7 +3833,9 @@ d) activități agricole, silvicultură și piscicultură, altele decât cele pr
 
 Ordin nr. 3696/2016 din 27 decembrie 2016 pentru aprobarea procedurii privind recalcularea plăților anticipate cu titlu de impozit, contribuții de asigurări sociale de sănătate și contribuții de asigurări sociale, precum și pentru aprobarea unor formulare și modificarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3655/2015 pentru aprobarea modelului, conținutului, modalității de depunere și de gestionare a formularului 600 "Declarație privind îndeplinirea condițiilor de încadrare în categoria persoanelor asigurate obligatoriu în sistemul public de pensii"
 
-2. persoanele fizice, pentru veniturile realizate din venituri din salarii și asimilate salariilor prevăzute la art. 76 alin. (1) - (3), ca urmare a desfășurării activității de creare de programe pentru calculator. încadrarea în activitatea de creare de programe pentru calculator se face prin ordin comun al ministrului muncii, familiei, protecției sociale și persoanelor vârstnice, al ministrului pentru societatea informațională, al ministrului educației și cercetării științifice și al ministrului finanțelor publice; Norme metodologice
+2. persoanele fizice, pentru veniturile realizate din venituri din salarii și asimilate salariilor prevăzute la art. 76 alin. (1) - (3), ca urmare a desfășurării activității de creare de programe pentru calculator. Încadrarea în activitatea de creare de programe pentru calculator se face prin ordin comun al ministrului muncii, familiei, protecției sociale și persoanelor vârstnice, al ministrului pentru societatea informațională, al ministrului educației și cercetării științifice și al ministrului finanțelor publice; Norme metodologice
+
+Ordinul comun al ministrului comunicațiilor și societății informaționale, al ministrului educației naționale, al ministrului muncii și justiției sociale și al ministrului finanțelor publice nr. 1168/2017 / 3024/2018 / 492/2018 / 3337/2017 privind încadrarea în activitatea de creare de programe pentru calculator.
 
 Ordinul comun al ministrului comunicațiilor și societății informaționale, al ministrului educației naționale, al ministrului muncii și justiției sociale și al ministrului finanțelor publice nr. 409/4020/737/703/2017 privind încadrarea în activitatea de creare de programe pentru calculator.
 
@@ -3818,6 +3846,8 @@ a) scutirea se acordă pentru toate persoanele care sunt incluse în echipa unui
 b) scutirea se acordă în limita cheltuielilor cu personalul alocat proiectului de cercetare-dezvoltare și inovare, evidențiate distinct în bugetul proiectului;
 
 c) statul de plată aferent veniturilor din salarii și asimilate salariilor, obținute de fiecare angajat din activitățile desfășurate în proiectul de cercetare-dezvoltare și inovare, se întocmește separat pentru fiecare proiect.
+
+Ordinul ministrului finanțelor publice nr. 2326/2017, ordinul ministrului cercetării și inovării nr. 2855/2017 privind stabilirea procedurii de acordare a facilității fiscale prevăzute la art. 60 pct. 3 din Legea nr. 227/2015 privind Codul fiscal.
 
 4. persoanele fizice, pentru veniturile realizate din salarii și asimilate salariilor prevăzute la art. 76 alin. (1) - (3), ca urmare a desfășurării activității pe bază de contract individual de muncă încheiat pe o perioadă de 12 luni, cu persoane juridice române care desfășoară activități sezoniere dintre cele prevăzute la art. 1 al Legii nr. 170/2016 privind impozitul specific unor activități, în cursul unui an. Norme metodologice
 
@@ -3969,6 +3999,12 @@ ART. 67 - Definirea veniturilor din activități independente
 
 Norme metodologice
 
+ART. 671 - Definirea veniturilor din România din activități independente
+
+(1) Veniturile obținute din activități independente desfășurate în România, potrivit legii, cu excepția drepturilor de proprietate intelectuală, se consideră ca fiind obținute din România, indiferent dacă sunt primite din România sau din străinătate.
+
+(2) Veniturile din drepturi de proprietate intelectuală sunt considerate ca fiind obținute din România, numai dacă sunt primite de la un plătitor de venit din România sau de la un nerezident prin intermediul unui sediu permanent al acestuia stabilit în România.
+
 ART. 68 - Reguli generale de stabilire a venitului net anual din activități independente, determinat în sistem real, pe baza datelor din contabilitate
 
 (1) Venitul net anual din activități independente se determină în sistem real, pe baza datelor din contabilitate, ca diferență între venitul brut și cheltuielile deductibile efectuate în scopul realizării de venituri, cu excepția situațiilor în care sunt aplicabile prevederile art. 69 și 70 .
@@ -4114,6 +4150,8 @@ l) alte sume prevăzute prin legislația în vigoare.
 (8) Contribuabilii pentru care determinarea venitului anual se efectuează în sistem real au obligația să completeze Registrul de evidență fiscală, în vederea stabilirii venitului net anual.
 
 (9) Modelul și conținutul Registrului de evidență fiscală se aprobă prin ordin al ministrului finanțelor publice.
+
+Ordinul ministrului finanțelor publice nr. 3254/2017 privind Registrul de evidență fiscală pentru persoanele fizice, contribuabili potrivit titlului IV din Legea nr. 227/2015 privind Codul fiscal.
 
 ART. 69 - Stabilirea venitului net anual pe baza normelor de venit
 
@@ -4311,7 +4349,7 @@ m) sumele primite, potrivit dispozițiilor legale, pentru acoperirea cheltuielil
 
 n) indemnizațiile de instalare ce se acordă o singură dată, la încadrarea într-o unitate situată într-o altă localitate decât cea de domiciliu, în primul an de activitate după absolvirea studiilor, în limita unui salariu de bază la angajare, precum și indemnizațiile de instalare și mutare acordate personalului din instituțiile publice, potrivit legii; Norme metodologice
 
-o) sumele sau avantajele primite de persoane fizice din activități dependente desfășurate într-un stat străin, indiferent de tratamentul fiscal din statul respectiv, inclusiv din activități dependente desfășurate la bordul navelor în apele internaționale. Fac excepție veniturile salariale plătite de către sau în numele unui angajator care este rezident în România ori are sediul permanent în România, care sunt impozabile în România numai în situația în care România are drept de impunere; Norme metodologice
+o) sumele sau avantajele primite de persoane fizice din activități dependente desfășurate într-un stat străin, indiferent de tratamentul fiscal din statul respectiv, inclusiv din activități dependente desfășurate la bordul navelor și aeronavelor operate în trafic internațional. Fac excepție veniturile salariale plătite de către sau în numele unui angajator care este rezident în România ori are sediul permanent în România, care sunt impozabile în România numai în situația în care România are drept de impunere; Norme metodologice
 
 p) cheltuielile efectuate de angajatori/plătitori pentru pregătirea profesională și perfecționarea angajaților, administratorilor stabiliți potrivit actului constitutiv, contractului de administrare/mandat și directorilor care își desfășoară activitatea în baza contractului de mandat potrivit legii, astfel cum este prevăzut în raporturile juridice respective, pregătire legată de activitatea desfășurată de persoanele respective pentru angajator/plătitor;
 
@@ -4459,7 +4497,9 @@ Ordin nr. 3622/2015 din 10 decembrie 2015 pentru aprobarea modelului și conțin
 
 Ordin nr. 3695/2016 din 27 decembrie 2016 pentru aprobarea formularelor privind definitivarea impozitului anual pe venit și a contribuțiilor sociale datorate de persoanele fizice
 
-Ordinul nr.1718/2017 privind modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr.3695/2016 pentru aprobarea formularelor privind definitivarea impozitului anual pe venit și a contribuțiilor sociale datorate de persoanele fizice.
+Ordinul nr. 1718/2017 privind modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr.3695/2016 pentru aprobarea formularelor privind definitivarea impozitului anual pe venit și a contribuțiilor sociale datorate de persoanele fizice.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3780/2017 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit.
 
 CAPITOLUL IV - Venituri din cedarea folosinței bunurilor
 
@@ -4521,7 +4561,11 @@ ART. 85 - Reguli privind stabilirea impozitului pe venitul determinat pe baza no
 
 (8) Plata impozitului se efectuează în cursul anului către bugetul de stat, în contul impozitului anual datorat, în două rate egale, astfel: 50% din impozit până la data de 25 iulie inclusiv și 50% din impozit până la data de 25 noiembrie inclusiv. Pentru declarațiile privind venitul estimat/norma de venit depuse în luna noiembrie sau decembrie, impozitul anual datorat se stabilește prin decizie de impunere anuală, pe baza declarației privind venitul estimat/norma de venit, și se plătește în termen de cel mult 60 de zile de la data comunicării deciziei de impunere.
 
+(81) În cazul încetării sau suspendării temporare a activității în cursul anului, contribuabilul va notifica evenimentul organului fiscal competent în termen de 30 de zile de la data producerii acestuia, în vederea recalculării plăților stabilite în contul impozitului anual datorat.
+
 (9) Contribuabilii care obțin venituri determinate pe baza normei anuale de venit nu au obligații de completare a Registrului de evidență fiscală și de conducere a evidenței contabile.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3780/2017 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit.
 
 ART. 86 - Reguli privind stabilirea impozitului în cazul opțiunii pentru determinarea venitului net în sistem real
 
@@ -4533,15 +4577,19 @@ ART. 86 - Reguli privind stabilirea impozitului în cazul opțiunii pentru deter
 
 (4) Organul fiscal competent stabilește plățile anticipate prin aplicarea cotei de 16% asupra venitului net anual estimat din declarația privind venitul estimat/norma de venit și emite decizia de impunere, care se comunică contribuabililor, potrivit procedurii stabilite prin ordin al președintelui A.N.A.F. Pentru declarațiile privind venitul estimat/norma de venit depuse în luna noiembrie sau decembrie nu se mai stabilesc plăți anticipate, venitul net aferent perioadei până la sfârșitul anului urmând să fie supus impozitării, potrivit deciziei de impunere emise pe baza declarației privind venitul realizat.
 
+(41) În cazul încetării sau suspendării temporare a activității în cursul anului, contribuabilul va notifica evenimentul organului fiscal competent în termen de 30 de zile de la data producerii acestuia, în vederea recalculării plăților anticipate cu titlu de impozit stabilite în contul impozitului anual datorat.
+
 (5) Contribuabilii prevăzuți la alin. (1) au obligația de a depune declarația privind venitul realizat la organul fiscal competent pentru fiecare an fiscal, până la data de 25 mai inclusiv a anului următor celui de realizare a venitului.
 
-(6) Impozitul anual datorat se calculează de organul fiscal competent, pe baza declarației privind venitul realizat, prin aplicarea cotei de 16% asupra venitului net anual determinat în sistem real, pe baza datelor din contabilitate, potrivit prevederilor art. 68 , impozitul fiind final.
+(6) Impozitul anual datorat se calculează de organul fiscal competent, pe baza declarației privind venitul realizat, prin aplicarea cotei de 16% asupra venitului net anual determinat în sistem real, pe baza datelor din contabilitate, potrivit prevederilor art. 68, impozitul fiind final.
 
 (7) Organul fiscal stabilește impozitul anual datorat și emite decizia de impunere, la termenul și în forma stabilite prin ordin al președintelui A.N.A.F.
 
 (8) Diferențele de impozit rămase de achitat conform deciziei de impunere anuale se plătesc în termen de cel mult 60 de zile de la data comunicării deciziei de impunere, perioadă pentru care nu se calculează și nu se datorează obligații fiscale accesorii conform Codului de procedură fiscală.
 
 (9) Impozitul anual datorat se plătește integral la bugetul de stat.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3780/2017 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit.
 
 ART. 87 - Reguli de stabilire a impozitului final pentru veniturile realizate din închirierea în scop turistic în cazul depășirii numărului de 5 camere în cursul anului fiscal
 
@@ -4552,6 +4600,8 @@ ART. 87 - Reguli de stabilire a impozitului final pentru veniturile realizate di
 (3) Pentru perioada rămasă din anul fiscal, venitul net se stabilește în sistem real, potrivit prevederilor art. 68 , contribuabilii având obligația de a completa Registrul de evidență fiscală. Contribuabilii respectivi sunt obligați să completeze și să depună declarația privind venitul estimat/norma de venit, în termen de 30 de zile de la data producerii evenimentului, la organul fiscal competent, în vederea stabilirii plăților anticipate pentru veniturile aferente perioadei rămase până la sfârșitul anului fiscal. Regulile de impunere aplicabile pentru venitul realizat în perioada rămasă sunt cele prevăzute la art. 86 alin. (3) - (9).
 
 Ordin nr. 3696/2016 din 27 decembrie 2016 pentru aprobarea procedurii privind recalcularea plăților anticipate cu titlu de impozit, contribuții de asigurări sociale de sănătate și contribuții de asigurări sociale, precum și pentru aprobarea unor formulare și modificarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3655/2015 pentru aprobarea modelului, conținutului, modalității de depunere și de gestionare a formularului 600 "Declarație privind îndeplinirea condițiilor de încadrare în categoria persoanelor asigurate obligatoriu în sistemul public de pensii"
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3780/2017 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit.
 
 ART. 88 - Plăți anticipate de impozit pe veniturile din cedarea folosinței bunurilor
 
@@ -4865,7 +4915,7 @@ ART. 106 - Stabilirea venitului anual din activități agricole pe bază de norm
 
 (1) Venitul dintr-o activitate agricolă se stabilește pe bază de norme de venit.
 
-(2) Normele de venit se stabilesc pe unitatea de suprafață (ha)/cap de animal/familie de albine pentru categoriile de produse vegetale și animalele prevăzute laart. 105 alin. (2).
+(2) Normele de venit se stabilesc pe unitatea de suprafață (ha)/cap de animal/familie de albine pentru categoriile de produse vegetale și animalele prevăzute la art. 105 alin. (2).
 
 (3) Normele de venit se propun de către entitățile publice mandatate de Ministerul Agriculturii și Dezvoltării Rurale, pe baza metodologiei stabilite prin hotărâre a Guvernului, se aprobă și se publică de către direcțiile generale regionale ale finanțelor publice, până cel târziu la data de 15 februarie a anului pentru care se aplică aceste norme de venit.
 
@@ -4906,6 +4956,8 @@ b) 50% din impozit până la data de 15 decembrie inclusiv.
 Norme metodologice
 
 Ordin nr. 3622/2015 din 10 decembrie 2015 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit și a contribuțiilor sociale datorate de persoanele fizice (D220, D221, D222, D223, D224, D260, D650)
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3780/2017 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit.
 
 CAPITOLUL VIII - Venituri din premii și din jocuri de noroc
 
@@ -4991,6 +5043,8 @@ d) constatarea în condițiile art. 13 din Legea cadastrului și a publicități
 
 e) în cazul transferului dreptului de proprietate imobiliară din patrimoniul personal, în condițiile prevederilor Legii nr. 77/2016 privind darea în plată a unor bunuri imobile în vederea stingerii obligațiilor asumate prin credite, pentru o singură operațiune de dare în plată. Norme metodologice.
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2399/2017 pentru aprobarea Procedurii privind depunerea și soluționarea cererii pentru aplicarea dispozițiilor art. 111 alin. (2) lit. e) din Legea nr. 227/2015, în cazul în care darea în plată se face pe cale judecătorească, a Procedurii de anulare și restituire, la cererea persoanei fizice, a impozitului pe venitul din transferul dreptului de proprietate imobiliară din patrimoniul personal și accesoriilor aferente acestuia, potrivit prevederilor art. III din Ordonanța de urgență a Guvernului nr. 32/2016 pentru completarea Legii nr. 227/2015 privind Codul fiscal și reglementarea unor măsuri financiar-fiscale, precum și a modelului și conținutului unor formulare.
+
 NOTĂ : Art. II din Ordonanța de urgență a Guvernului nr. 32/2016
 Persoanele fizice care până la data intrării în vigoare a prezentei ordonanțe de urgență au efectuat darea în plată în condițiile prevederilor Legii nr. 77/2016 beneficiază de prevederile art. 111 alin. (2) lit. e) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, completată prin prezenta ordonanță de urgență, o singură dată, pentru prima operațiune de dare în plată efectuată după intrarea în vigoare a prezentei ordonanțe de urgență.
 
@@ -5010,7 +5064,11 @@ Persoanele fizice care până la data intrării în vigoare a prezentei ordonan�
 
 (28) În situația prevăzută la alin. (27), pentru a beneficia de prevederile alin. (2) lit. e), persoanele fizice prevăzute la alin. (21) au obligația depunerii unei cereri la organul fiscal competent, în termen de 90 de zile de la data comunicării hotărârii judecătorești, sub sancțiunea decăderii, la care să anexeze certificatul eliberat de CNARNN, din care să rezulte faptul că hotărârea judecătorească definitivă s-a înregistrat în RNNEADP și nu s-a mai înregistrat niciun alt act de dare în plată potrivit Legii nr. 77/2016, până la data înregistrării hotărârii judecătorești. Certificatul se obține de la CNARNN - Infonot de persoana fizică, direct sau prin intermediul unui notar public.
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2399/2017 pentru aprobarea Procedurii privind depunerea și soluționarea cererii pentru aplicarea dispozițiilor art. 111 alin. (2) lit. e) din Legea nr. 227/2015, în cazul în care darea în plată se face pe cale judecătorească, a Procedurii de anulare și restituire, la cererea persoanei fizice, a impozitului pe venitul din transferul dreptului de proprietate imobiliară din patrimoniul personal și accesoriilor aferente acestuia, potrivit prevederilor art. III din Ordonanța de urgență a Guvernului nr. 32/2016 pentru completarea Legii nr. 227/2015 privind Codul fiscal și reglementarea unor măsuri financiar-fiscale, precum și a modelului și conținutului unor formulare.
+
 (29) Cererea prevăzută la alin. (28) va cuprinde cel puțin informații privind: datele de identificare ale contribuabilului, calitatea de parte în cadrul unei hotărâri judecătorești obținute în conformitate cu prevederile Legii nr. 77/2016, numărul și data hotărârii judecătorești definitive, adresa la care este situat bunul imobil înstrăinat care face obiectul transferului dreptului de proprietate ca urmare a actului de dare în plată.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2399/2017 pentru aprobarea Procedurii privind depunerea și soluționarea cererii pentru aplicarea dispozițiilor art. 111 alin. (2) lit. e) din Legea nr. 227/2015, în cazul în care darea în plată se face pe cale judecătorească, a Procedurii de anulare și restituire, la cererea persoanei fizice, a impozitului pe venitul din transferul dreptului de proprietate imobiliară din patrimoniul personal și accesoriilor aferente acestuia, potrivit prevederilor art. III din Ordonanța de urgență a Guvernului nr. 32/2016 pentru completarea Legii nr. 227/2015 privind Codul fiscal și reglementarea unor măsuri financiar-fiscale, precum și a modelului și conținutului unor formulare.
 
 (3) Pentru transmisiunea dreptului de proprietate și a dezmembrămintelor acestuia cu titlul de moștenire nu se datorează impozitul prevăzut la alin. (1), dacă succesiunea este dezbătută și finalizată în termen de 2 ani de la data decesului autorului succesiunii. în cazul nefinalizării procedurii succesorale în termenul prevăzut mai sus, moștenitorii datorează un impozit de 1% calculat la valoarea masei succesorale. Norme metodologice
 
@@ -5114,7 +5172,7 @@ ART. 115 - Calculul impozitului și termenul de plată
 
 ART. 116 - Declararea, stabilirea și plata impozitului pentru unele venituri din alte surse
 
-(1) Contribuabilii care realizează venituri din alte surse, altele decât cele prevăzute la art. 114 alin. (2) lit. a) - k), precum și în normele metodologice elaborate în aplicarea art. 114, au obligația de a depune declarația privind venitul realizat la organul fiscal competent, pentru fiecare an fiscal, până la data de 25 mai inclusiv a anului următor celui de realizare a venitului.
+(1) Contribuabilii care realizează venituri din alte surse, pentru care impozitul nu poate fi reținut la sursă, precum și cei prevăzuți la art. 114 alin. (2) lit. l) au obligația de a depune declarația privind venitul realizat la organul fiscal competent, pentru fiecare an fiscal, până la data de 25 mai inclusiv a anului următor celui de realizare a venitului.
 
 (2) Impozitul pe venit datorat se calculează de către organul fiscal competent, pe baza declarației privind venitul realizat, prin aplicarea cotei de 16% asupra:
 
@@ -5190,6 +5248,8 @@ ART. 120 - Declarații privind venitul estimat/norma de venit
 
 Ordin nr. 3622/2015 din 10 decembrie 2015 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit și a contribuțiilor sociale datorate de persoanele fizice (D220, D221, D222, D223, D224, D260, D650)
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3780/2017 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit.
+
 ART. 121 - Stabilirea plăților anticipate de impozit
 
 (1) Contribuabilii care realizează venituri din activități independente, cedarea folosinței bunurilor, activități agricole impuse în sistem real, prevăzute la art. 104 alin. (3), precum și din silvicultură și piscicultură, cu excepția veniturilor din arendare, sunt obligați să efectueze în cursul anului plăți anticipate cu titlu de impozit, exceptându-se cazul veniturilor pentru care plățile anticipate se stabilesc prin reținere la sursă. Norme metodologice
@@ -5221,6 +5281,8 @@ Ordin nr. 3696/2016 din 27 decembrie 2016 pentru aprobarea procedurii privind re
 (11) Procedura de aplicare a prevederilor alin. (10) se stabilește prin ordin al președintelui A.N.A.F.
 
 Ordin nr. 3622/2015 din 10 decembrie 2015 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit și a contribuțiilor sociale datorate de persoanele fizice (D220, D221, D222, D223, D224, D260, D650)
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3780/2017 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit.
 
 ART. 122 - Declarația privind venitul realizat
 
@@ -5338,6 +5400,8 @@ Norme metodologice
 
 (81) În cazul asocierilor fără personalitate juridică constituite între o persoană juridică, contribuabil potrivit Legii nr. 170/2016, și o persoană fizică sau orice altă entitate - asociere fără personalitate juridică, indiferent de modalitatea de stabilire a venitului net pentru activitatea desfășurată de persoana fizică, persoana juridică distribuie un venit net/o pierdere netă proporțional cu cota procentuală de participare corespunzătoare contribuției, conform contractului de asociere, determinate potrivit prevederilor titlului II. Pentru venitul net/pierderea netă obținută de persoanele fizice din asociere se aplică regimul fiscal stabilit potrivit prevederilor alin. (8).
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3726/2017 pentru modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3695/2016 pentru aprobarea formularelor privind definitivarea impozitului anual pe venit și a contribuțiilor sociale datorate de persoanele fizice.
+
 (9) În cazul asocierilor dintre o persoana juridică contribuabil potrivit titlului III - Impozitul pe veniturile microîntreprinderilor - și o persoană fizică sau o entitate - asociere fără personalitate juridică (indiferent de modalitatea de stabilire a venitului net pentru activitatea desfășurată de persoana fizică), pentru impunerea veniturilor distribuite asociatului persoană fizică proporțional cu cota procentuală de participare corespunzătoare contribuției, conform contractului de asociere, se aplică regulile prevăzute la titlul III. Impozitul datorat de persoana fizică se calculează, se reține și se plătește de către persoana juridică potrivit regulilor prevăzute la titlul III și reprezintă impozit final. Pierderile nu se compensează și nu se reportează potrivit prevederilor titlului IV. Contribuabilul persoană fizică nu are obligații fiscale potrivit titlului IV.
 
 (10) În cazul asocierilor fără personalitate juridică constituite între contribuabili care desfășoară activitate individual sau contribuabili care desfășoară activitate individual și o asociere fără personalitate juridică și pentru care stabilirea venitului anual pentru activitatea desfășurată se efectuează pe baza normelor de venit sau prin utilizarea cotelor forfetare de cheltuieli, veniturile realizate în cadrul asocierii respective nu sunt considerate distribuite, în vederea impunerii, contribuabililor care datorează impozit potrivit prezentului titlu, fiind aplicabile numai regulile stabilite pentru impunerea venitului determinat pe baza normelor de venit sau stabilit pe baza cotelor forfetare.
@@ -5394,6 +5458,8 @@ ART. 130 - Venituri obținute din străinătate
 
 Ordin nr. 3695/2016 din 27 decembrie 2016 pentru aprobarea formularelor privind definitivarea impozitului anual pe venit și a contribuțiilor sociale datorate de persoanele fizice
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3726/2017 pentru modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3695/2016 pentru aprobarea formularelor privind definitivarea impozitului anual pe venit și a contribuțiilor sociale datorate de persoanele fizice.
+
 ART. 131 - Evitarea dublei impuneri prin metoda creditului fiscal sau metoda scutirii
 
 (1) Contribuabilii persoane fizice rezidente care, pentru același venit și pentru aceeași perioadă impozabilă, sunt supuși impozitului pe venit atât pe teritoriul României, cât și în statul străin cu care România are încheiată o convenție de evitare a dublei impuneri, iar respectiva convenție prevede ca metodă de evitare a dublei impuneri metoda creditului, au dreptul la deducerea din impozitul pe venit datorat în România a impozitului plătit în străinătate, în limitele prevăzute în prezentul articol. Norme metodologice
@@ -5427,6 +5493,8 @@ ART. 132 - Obligații declarative ale plătitorilor de venituri cu reținere la 
 (2) Plătitorii de venituri cu regim de reținere la sursă a impozitelor au obligația să depună o declarație privind calcularea și reținerea impozitului pentru fiecare beneficiar de venit la organul fiscal competent, până în ultima zi a lunii februarie inclusiv a anului curent pentru anul expirat, cu excepția plătitorilor de venituri din salarii și asimilate salariilor, din valorificarea sub orice formă a drepturilor de proprietate intelectuală, din arendare, precum și a persoanelor juridice care au obligația calculării, reținerii și plății impozitului datorat de persoana fizică potrivit art. 125 alin. (8) și (9), care au obligația depunerii Declarației privind obligațiile de plată a contribuțiilor sociale, impozitului pe venit și evidența nominală a persoanelor asigurate pentru fiecare beneficiar de venit.
 
 Ordin nr. 3695/2016 din 27 decembrie 2016 pentru aprobarea formularelor privind definitivarea impozitului anual pe venit și a contribuțiilor sociale datorate de persoanele fizice
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3726/2017 pentru modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3695/2016 pentru aprobarea formularelor privind definitivarea impozitului anual pe venit și a contribuțiilor sociale datorate de persoanele fizice.
 
 CAPITOLUL XV - Dispoziții tranzitorii și finale
 
@@ -5505,6 +5573,8 @@ c) indemnizații de șomaj;
 d) indemnizații de asigurări sociale de sănătate.
 
 (2) Pentru veniturile prevăzute la alin. (1) se datorează contribuții de asigurări sociale și în cazul în care acestea sunt realizate de persoanele fizice aflate în situațiile prevăzute la art. 60.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3567/2017 privind aprobarea unor formulare utilizate pentru stabilirea din oficiu a contribuției de asigurări sociale și a contribuției de asigurări sociale de sănătate pentru persoanele fizice.
 
 ART. 138 - Cotele de contribuții de asigurări sociale datorate bugetului asigurărilor sociale de stat
 
@@ -5588,6 +5658,8 @@ d) au calitatea de pensionari pentru limită de vârstă în sistemul public de 
 
 e) realizează în cursul aceleiași luni venituri din salarii sau asimilate salariilor în baza a două sau mai multe contracte individuale de muncă, iar baza lunară de calcul cumulată aferentă acestora este cel puțin egală cu salariul minim brut pe țară.
 
+Ordinul ministrului finanțelor publice nr. 2343/2017 privind procedura de aplicare a prevederilor art. 140 alin. (3) lit. e) din Legea nr. 227/2015 privind Codul fiscal.
+
 (4) În aplicarea prevederilor alin. (3), angajatorul solicită documente justificative persoanelor fizice aflate în situațiile prevăzute la alin. (3) lit. a), c) și d), iar în cazul situației prevăzute la alin. (3) lit. e), procedura de aplicare se stabilește prin ordin al ministrului finanțelor publice.
 Norme metodologice
 
@@ -5661,7 +5733,7 @@ s) următoarele avantaje primite în legătură cu o activitate dependentă:
 
 5. permisele de călătorie pe orice mijloc de transport, acordate în interes de serviciu;
 
-6. contribuțiile la un fond de pensii facultative potrivit Legii nr. 204/2006, cu modificările și completările ulterioare, și cele reprezentând contribuții la scheme de pensii facultative, calificate astfel în conformitate cu legislația privind pensiile facultative de către Autoritatea de Supraveghere Financiară, administrate de către entități autorizate stabilite în state membre ale Uniunii Europene sau aparținând Spațiului Economic European, precum și primele de asigurare voluntară de sănătate conform Legii nr. 95/2006, republicată, suportate de angajator pentru angajații proprii, astfel încât la nivelul anului să nu se depășească limitele prevăzute la art. 76 alin. (4) lit. ș) și t) pentru veniturile neimpozabile, precum și primele aferente asigurărilor de risc profesional;
+6. contribuțiile la un fond de pensii facultative potrivit Legii nr. 204/2006, cu modificările și completările ulterioare, și cele reprezentând contribuții la scheme de pensii facultative, calificate astfel în conformitate cu legislația privind pensiile facultative de către Autoritatea de Supraveghere Financiară, administrate de către entități autorizate stabilite în state membre ale Uniunii Europene sau aparținând Spațiului Economic European, precum și primele de asigurare voluntară de sănătate și serviciile medicale furnizate sub formă de abonament, conform Legii nr. 95/2006, republicată, cu modificările și completările ulterioare, suportate de angajator pentru angajații proprii, astfel încât la nivelul anului să nu se depășească limitele prevăzute la art. 76 alin. (4) lit. ș) și t) pentru veniturile neimpozabile, precum și primele aferente asigurărilor de risc profesional;
 
 ș) veniturile acordate la momentul disponibilizării, venitul lunar de completare sau plățile compensatorii, suportate din bugetul asigurărilor de șomaj, potrivit actelor normative care reglementează aceste domenii.
 
@@ -5715,7 +5787,7 @@ ART. 146 - Stabilirea și plata contribuțiilor de asigurări sociale
 
 (6) Pentru persoanele prevăzute la art. 136 lit. d) - f), în cazul în care din calcul rezultă o bază mai mare decât valoarea a de 5 ori câștigul salarial mediu brut, prevăzut la art. 143 alin. (2), cota contribuției individuale de asigurări sociale se va aplica asupra echivalentului a de 5 ori câștigul salarial mediu brut, pe fiecare loc de realizare al venitului. Norme metodologice
 
-(7) Calculul contribuțiilor de asigurări sociale datorate de persoanele fizice și juridice care au calitatea de angajatori sau sunt asimilate acestora, precum și de instituțiile prevăzute la art. 136 lit. d) - f) se realizează prin aplicarea cotelor corespunzătoare prevăzute la art. 138 asupra bazelor de calcul prevăzute la art. 140 , art. 143 - 145 , după caz, în care nu se includ veniturile prevăzute la art. 141 și 142.
+(7) Calculul contribuțiilor de asigurări sociale datorate de persoanele fizice și juridice care au calitatea de angajatori sau sunt asimilate acestora, precum și de instituțiile prevăzute la art. 136 lit. d) - f) se realizează prin aplicarea cotelor corespunzătoare prevăzute la art. 138 asupra bazelor de calcul prevăzute la art. 140 , art. 143 - 145, după caz, în care nu se includ veniturile prevăzute la art. 141 și 142.
 
 (8) Calculul contribuțiilor de asigurări sociale datorate de persoanele prevăzute la alin. (2) se realizează de către acestea prin aplicarea cotei corespunzătoare contribuției integrale, rezultată din însumarea cotelor de contribuție individuală cu cea datorată de angajator, în funcție de condițiile de muncă, prevăzută la art. 138, asupra bazei lunare de calcul prevăzute la art. 139. Contribuția se plătește până la data de 25 a lunii următoare celei pentru care se plătesc veniturile.
 
@@ -5768,6 +5840,8 @@ Ordin nr. 3249/2016 din 03 noiembrie 2016 privind modificarea și completarea Or
 (16) Declarația prevăzută la alin. (1) se depune prin mijloace electronice de transmitere la distanță, pe portalul e-România, iar declarația privind opțiunea prevăzută la alin. (8) se depune pe suport hârtie, la sediul organului fiscal competent.
 
 (17) Modelul, conținutul, modalitatea de depunere și de gestionare a declarației prevăzute la alin. (1) sunt reglementate prin ordin comun al ministrului finanțelor publice, al ministrului muncii, familiei, protecției sociale și persoanelor vârstnice și al ministrului sănătății.
+
+Ordinul ministrului finanțelor publice nr. 1024/2017, ordinul ministrului muncii și justiției sociale nr. 1582/2017, ordinul ministrului sănătății nr. 934/2017 pentru aprobarea modelului, conținutului, modalității de depunere și de gestionare a "Declarației privind obligațiile de plată a contribuțiilor sociale, impozitului pe venit și evidența nominală a persoanelor asigurate".
 
 (18) Evidența obligațiilor de plată a contribuțiilor de asigurări sociale datorate de angajatori și asimilații acestora se ține pe baza codului de identificare fiscală, iar cea privind contribuțiile de asigurări sociale individuale, pe baza codului numeric personal sau pe baza numărului de identificare fiscală, după caz.
 
@@ -5825,6 +5899,8 @@ Ordin nr. 3655/2015 din 15 decembrie 2015 pentru aprobarea modelului, conținutu
 
 (9) Contribuțiile de asigurări sociale plătite în anul fiscal în care persoanele prevăzute la alin. (1) au realizat venituri determinate în sistem real sub nivelul plafonului minim prevăzut la alin. (3) nu se restituie, acestea fiind luate în calcul la stabilirea stagiului de cotizare și la stabilirea punctajului pentru pensionare.
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 4140/2017 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit.
+
 ART. 149 - Baza de calcul al contribuției de asigurări sociale datorate de persoanele fizice care realizează venituri din drepturi de proprietate intelectuală pentru care impozitul pe venit se reține la sursă
 
 Pentru persoanele fizice care realizează venituri din drepturi de proprietate intelectuală pentru care impozitul pe venit se reține la sursă, baza lunară de calcul al contribuției de asigurări sociale o reprezintă diferența dintre venitul brut și cheltuiala deductibilă prevăzută la art. 70 și nu poate fi mai mare decât echivalentul a de 5 ori câștigul salarial mediu brut utilizat la fundamentarea bugetului asigurărilor sociale de stat, prevăzut la art. 143 alin. (2), în vigoare în luna pentru care se datorează contribuția.
@@ -5865,6 +5941,8 @@ Ordin nr. 3696/2016 din 27 decembrie 2016 pentru aprobarea procedurii privind re
 
 Ordin nr. 3622/2015 din 10 decembrie 2015 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit și a contribuțiilor sociale datorate de persoanele fizice (D220, D221, D222, D223, D224, D260, D650)
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 4140/2017 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit.
+
 ART. 152 - Declararea și definitivarea contribuției de asigurări sociale în cazul veniturilor din activități independente
 
 (1) Definitivarea contribuției de asigurări sociale în cazul veniturilor determinate în sistem real se efectuează în baza declarației privind venitul realizat prevăzute la art. 123.
@@ -5882,6 +5960,8 @@ ART. 152 - Declararea și definitivarea contribuției de asigurări sociale în 
 (7) Repartizarea diferențelor de contribuție de asigurări sociale stabilite potrivit alin. (3), precum și a contribuției de asigurări sociale stabilite potrivit alin. (5), care se efectuează în vederea calculării prestațiilor acordate de sistemul public de pensii, conduce la reîntregirea bazei de calcul al contribuției de asigurări sociale și nu determină stabilirea de obligații fiscale accesorii pentru plățile anticipate.
 
 Ordin nr. 1964/2017 din 30 iunie 2017 pentru aprobarea formularului 630 "Decizie de impunere anuală pentru stabilirea contribuției de asigurări sociale de sănătate și a contribușiei de asigurări sociale"
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3567/2017 privind aprobarea unor formulare utilizate pentru stabilirea din oficiu a contribuției de asigurări sociale și a contribuției de asigurări sociale de sănătate pentru persoanele fizice.
 
 CAPITOLUL III - Contribuțiile de asigurări sociale de sănătate datorate bugetului Fondului național unic de asigurări sociale de sănătate
 
@@ -5979,6 +6059,8 @@ l) indemnizații pentru incapacitate temporară de muncă drept urmare a unui ac
 
 (2) Pentru veniturile prevăzute la alin. (1) se datorează contribuții de asigurări sociale de sănătate și în cazul în care acestea sunt realizate de persoanele fizice aflate în situațiile prevăzute la art. 60.
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3567/2017 privind aprobarea unor formulare utilizate pentru stabilirea din oficiu a contribuției de asigurări sociale și a contribuției de asigurări sociale de sănătate pentru persoanele fizice.
+
 ART. 156 - Cotele de contribuții de asigurări sociale de sănătate
 
 Cotele de contribuții de asigurări sociale de sănătate sunt următoarele:
@@ -5987,7 +6069,7 @@ a) 5,5% pentru contribuția individuală;
 
 b) 5,2% pentru contribuția datorată de angajator.
 
-SECȚIUNEA a 3-a - Baza de calcul al contribuției de asigurări sociale de sănătate datorate în cazul persoanelor care realizează venituri din salarii sau asimilate salariilor, precum și în cazul persoanelor aflate sub protecția sau în custodia statului
+SECȚIUNEA a 3-a - Baza de calcul al contribuției de asigurări sociale de sănătate datorate în cazul persoanelor care realizează venituri din salarii sau asimilate salariilor, precum și în cazul persoanelor	aflate sub protecția sau în custodia statului
 
 ART. 157 - Baza de calcul al contribuției individuale de asigurări sociale de sănătate în cazul persoanelor fizice care realizează venituri din salarii sau asimilate salariilor
 
@@ -6043,7 +6125,7 @@ s) ajutoarele și plățile compensatorii care se acordă, conform legii, person
 
 (2) Nu se cuprind în baza lunară de calcul al contribuției de asigurări sociale de sănătate sumele prevăzute la art. 76 alin. (4) lit. d), art. 141 lit. d) și art. 142 .
 
-*** A B R O G A T ***
+(3) *** A B R O G A T ***
 
 ART. 158 - Baza de calcul al contribuției de asigurări sociale de sănătate datorate de angajatori sau de persoane asimilate acestora prevăzute la art. 153 alin. (1) lit. f)
 
@@ -6193,6 +6275,8 @@ ART. 170 - Baza de calcul al contribuției de asigurări sociale de sănătate d
 
 (2) Pentru veniturile realizate începând cu data de 1 ianuarie 2017, baza lunară de calcul prevăzută la alin. (1) nu poate fi mai mare decât valoarea a de 5 ori câștigul salarial mediu brut prevăzut la art. 143 alin. (2), în vigoare în anul pentru care se stabilește contribuția.
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 4140/2017 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit.
+
 ART. 171 - Baza de calcul al contribuției de asigurări sociale de sănătate datorate de persoanele fizice care realizează venituri din drepturi de proprietate intelectuală pentru care impozitul pe venit se reține la sursă, precum și din asocierea cu o persoană juridică, contribuabil potrivit titlurilor II, III sau Legii nr. 170/2016, pentru care sunt aplicabile prevederile art. 125
 
 (1) Pentru persoanele fizice care realizează venituri din drepturi de proprietate intelectuală, pentru care impozitul pe venit se reține la sursă, baza lunară de calcul al contribuției de asigurări sociale de sănătate o reprezintă diferența dintre venitul brut și cheltuiala deductibilă prevăzută la art. 70 .
@@ -6253,6 +6337,8 @@ Ordin nr. 3696/2016 din 27 decembrie 2016 pentru aprobarea procedurii privind re
 
 Ordin nr. 3622/2015 din 10 decembrie 2015 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit și a contribuțiilor sociale datorate de persoanele fizice (D220, D221, D222, D223, D224, D260, D650)
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 4140/2017 pentru aprobarea modelului și conținutului unor formulare utilizate în administrarea impozitului pe venit.
+
 ART. 175 - Declararea și definitivarea contribuției de asigurări sociale de sănătate
 
 (1) Veniturile care reprezintă baza lunară de calcul al contribuției de asigurări sociale de sănătate sunt cele din declarația de venit estimat/norma de venit prevăzută la art. 120 sau din declarația privind venitul realizat prevăzută la art. 122, după caz.
@@ -6266,6 +6352,8 @@ ART. 175 - Declararea și definitivarea contribuției de asigurări sociale de s
 (5) Pentru veniturile realizate începând cu data de 1 ianuarie 2017, obligațiile anuale de plată a contribuției de asigurări sociale de sănătate se determină de organul fiscal competent, prin decizia de impunere anuală prevăzută la art. 179 alin. (2), pe baza declarațiilor menționate la alin. (1), prin aplicarea cotei prevăzute la art. 156 lit. a) asupra bazelor de calcul prevăzute la art. 170 - 173 , după caz, la determinarea cărora nu se iau în considerare pierderile fiscale anuale. Baza de calcul al contribuției de asigurări sociale de sănătate se evidențiază lunar în decizia de impunere.
 
 Ordin nr. 1964/2017 din 30 iunie 2017 pentru aprobarea formularului 630 "Decizie de impunere anuală pentru stabilirea contribuției de asigurări sociale de sănătate și a contribușiei de asigurări sociale"
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3567/2017 privind aprobarea unor formulare utilizate pentru stabilirea din oficiu a contribuției de asigurări sociale și a contribuției de asigurări sociale de sănătate pentru persoanele fizice.
 
 SECȚIUNEA a 7-a - Baza de calcul al contribuției de asigurări sociale de sănătate datorate de persoanele fizice care realizează venituri din investiții și din alte surse
 
@@ -6306,6 +6394,8 @@ ART. 178 - Stabilirea contribuției
 (4) În cazul veniturilor prevăzute la alin. (1), ale căror baze lunare de calcul se situează sub nivelul valorii salariului de bază minim brut pe țară, nu se datorează contribuția de asigurări sociale de sănătate. Pentru veniturile ale căror baze lunare de calcul sunt mai mari sau egale cu valoarea salariului de bază minim brut pe țară, contribuția datorată lunar se calculează asupra acestor baze de calcul. Norme metodologice
 
 (5) Sumele reprezentând obligațiile anuale de plată a contribuției de asigurări sociale de sănătate stabilite prin decizia de impunere anuală, potrivit alin. (1), se achită în termen de cel mult 60 de zile de la data comunicării deciziei.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3567/2017 privind aprobarea unor formulare utilizate pentru stabilirea din oficiu a contribuției de asigurări sociale și a contribuției de asigurări sociale de sănătate pentru persoanele fizice.
 
 SECȚIUNEA a 9-a - Stabilirea contribuției anuale de asigurări sociale de sănătate
 
@@ -7158,23 +7248,25 @@ CAPITOLUL III - Impozitul pe reprezentanțe
 
 ART. 235 - Contribuabili
 
-Orice persoană juridică străină, care are o reprezentanță autorizată să funcționeze în România, potrivit legii, are obligația de a plăti un impozit anual, conform prezentului capitol. Norme metodologice
+Reprezentanța unei/unor persoane juridice străine, autorizată să funcționeze în România, potrivit legii, are obligația de a plăti un impozit anual, conform prezentului capitol. Norme metodologice
 
 ART. 236 - Stabilirea impozitului
 
-(1) Impozitul pe reprezentanță pentru un an fiscal este egal cu echivalentul în lei al sumei de 4.000 euro, stabilită pentru un an fiscal, la cursul de schimb al pieței valutare, comunicat de Banca Națională a României, pentru ziua în care se efectuează plata impozitului către bugetul de stat, respectiv până la 25 iunie și 25 decembrie inclusiv a anului de impunere.
+(1) Impozitul pe reprezentanță pentru un an fiscal este de 18.000 lei.
 
-(2) În cazul unei persoane juridice străine, care în cursul unui an fiscal înființează sau desființează o reprezentanță în România, impozitul datorat pentru acest an se calculează proporțional cu numărul de luni de existență a reprezentanței în anul fiscal respectiv. Norme metodologice
+(2) În cazul reprezentanței unei/unor persoane juridice străine, care se înființează sau desființează în cursul unui an fiscal, impozitul datorat pentru acest an se calculează proporțional cu numărul de luni de existență a reprezentanței în anul fiscal respectiv. Norme metodologice
 
 ART. 237 - Plata impozitului și depunerea declarației fiscale
 
-(1) Orice persoană juridică străină are obligația de a plăti impozitul pe reprezentanță la bugetul de stat, în două tranșe egale, până la datele de 25 iunie și 25 decembrie inclusiv a anului de impunere.
+(1) Reprezentanța unei/unor persoane juridice străine are obligația să declare și să plătească impozitul pe reprezentanță la bugetul de stat până în ultima zi a lunii februarie inclusiv a anului de impunere.
 
-(2) Orice persoană juridică străină care datorează impozitul pe reprezentanță are obligația de a depune o declarație anuală la organul fiscal competent, până în ultima zi a lunii februarie inclusiv a anului de impunere.
+(2) Reprezentanța unei/unor persoane juridice străine înființată în România în cursul unei luni din anul de impunere are obligația să calculeze, să depună declarația fiscală la organul fiscal competent și să plătească impozitul pentru anul de impunere, în termen de 30 de zile de la data la care aceasta a fost înființată. Impozitul se calculează începând cu data de 1 a lunii în care aceasta a fost înființată până la sfârșitul anului respectiv.
 
-(3) Orice persoană juridică străină, care înființează sau desființează o reprezentanță în cursul anului fiscal, are obligația de a depune o declarație fiscală la organul fiscal competent, în termen de 30 de zile de la data la care reprezentanța a fost înființată sau desființată.
+(3) Reprezentanța unei/unor persoane juridice străine desființată din România în cursul anului de impunere are obligația să recalculeze impozitul pe reprezentanță și să depună declarația fiscală la organul fiscal competent în termen de 30 de zile de la data la care aceasta a fost desființată. Reprezentanța recalculează impozitul anual pentru perioada de activitate de la începutul anului până la data de 1 a lunii următoare celei în care se desființează.
 
 (4) Reprezentanțele sunt obligate să conducă evidența contabilă prevăzută de legislația în vigoare din România. Norme metodologice
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3391/2017 pentru aprobarea modelului și conținutului formularului 108 "Declarație privind impozitul pe reprezentanță"
 
 CAPITOLUL IV - Modul de impozitare a veniturilor din economii obținute din România de persoane fizice rezidente în state membre și aplicarea schimbului de informații în legătură cu această categorie de venituri
 
@@ -7833,6 +7925,31 @@ Dispozițiile prezentului capitol transpun prevederile Directivei 2003/49/CE a C
 
 TITLUL VII - Taxa pe valoarea adăugată
 
+NOTĂ : Ordonanța Guvernului nr. 23/2017 privind plata defalcată a TVA
+
+Legea nr. 275/2017 pentru aprobarea Ordonanței Guvernului nr. 23/2017 privind plata defalcată a TVA
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2743/2017 pentru aprobarea modelului, conținutului și instrucțiunilor de completare ale formularului (086) "Notificare privind opțiunea de aplicare a mecanismului de plată defalcată a TVA"
+
+Ordinul ministrului finanțelor publice nr. 2426/2017 pentru completarea Normelor metodologice privind execuția bugetelor de venituri și cheltuieli ale instituțiilor publice autonome, instituțiilor publice finanțate integral sau parțial din venituri proprii și activităților finanțate integral din venituri proprii, inclusiv a bugetelor creditelor interne, bugetelor creditelor externe, bugetelor fondurilor externe nerambursabile, bugetelor fondului de risc și bugetelor privind activitatea de privatizare, gestionate de instituțiile publice, indiferent de modalitatea de organizare și finanțare a acestora, aprobate prin Ordinul ministrului delegat pentru buget nr. 720/2014
+
+Ordinul ministrului finanțelor publice nr. 2540/2017 pentru completarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 146/2002 privind formarea și utilizarea resurselor derulate prin trezoreria statului, aprobată cu modificări prin Legea nr. 201/2003, aprobate prin Ordinul ministrului finanțelor publice nr. 1235/2003
+
+Ordinul ministrului finanțelor publice nr. 2541/2017 privind modificarea și completarea Ordinului ministrului finanțelor publice nr. 246/2005 pentru aprobarea Normelor metodologice privind utilizarea și completarea ordinului de plată pentru Trezoreria Statului (OPT)
+
+Ordinul ministrului finanțelor publice nr. 2590/2017 privind modificarea și completarea Ordinului viceprim-ministrului, ministrul finanțelor publice, nr. 2004/2013 pentru aprobarea Procedurii privind registrul entităților publice
+
+Ordinul ministrului finanțelor publice nr. 2744/2017 privind modificarea Ordinului ministrului finanțelor publice nr. 517/2016 pentru aprobarea de proceduri aferente unor module care fac parte din procedura de funcționare a sistemului național de raportare - Forexebug
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2927/2017 privind procedura și condițiile de aprobare a transferului sumelor din contul de TVA
+
+Ordinul ministrului finanțelor publice nr. 2768/2017 pentru aprobarea Precizărilor privind formatul, schema XSD și elementele extraselor de cont în format electronic emise de unitățile Trezoreriei Statului
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2932/2017 privind completarea unor acte normative în domeniul administrării și monitorizării contribuabililor mari și mijlocii
+
+Ordinul ministrului finanțelor publice nr. 2800/2017 pentru aprobarea Procedurii privind anularea penalităților de întârziere aferente obligațiilor fiscale principale reprezentând TVA, în cazul contribuabililor care optează pentru plata defalcată a TVA, precum și pentru aprobarea modelului și conținutului unor formulare
+
+
 CAPITOLUL I - Definiții
 
 ART. 265 - Definiția taxei pe valoarea adăugată
@@ -8109,6 +8226,8 @@ l) operațiunile agențiilor agricole de intervenție efectuate asupra produselo
 
 (9) În condițiile și în limitele prevăzute în normele metodologice, este considerat drept grup fiscal unic un grup de persoane impozabile stabilite în România care, independente fiind din punct de vedere juridic, sunt în relații strânse una cu alta din punct de vedere organizatoric, financiar și economic. Norme metodologice
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3480/2017 din 4 decembrie 2017 pentru modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 3006/2016 privind aprobarea Procedurii de implementare și de administrare a grupului fiscal unic, precum și pentru aprobarea modelului și conținutului unor formulare
+
 Ordin nr. 3006/2016 din 21 octombrie 2016 privind aprobarea Procedurii de implementare și de administrare a grupului fiscal unic, precum și pentru aprobarea modelului și conținutului unor formulare
 
 (10) Orice asociat sau partener al unei asocieri ori organizații fără personalitate juridică este considerat persoană impozabilă separată pentru acele activități economice care nu sunt desfășurate în numele asocierii sau organizației respective.
@@ -8257,6 +8376,18 @@ CAPITOLUL V - Locul operațiunilor cuprinse în sfera de aplicare a taxei
 
 ART. 275 - Locul livrării de bunuri
 
+NOTĂ : Ordonanța Guvernului nr. 23/2017 privind plata defalcată a TVA.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2743/2017 pentru aprobarea modelului, conținutului și instrucțiunilor de completare ale formularului (086) "Notificare privind opțiunea de aplicare a mecanismului de plată defalcată a TVA"
+
+Ordinul ministrului finanțelor publice nr. 2540/2017 pentru completarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 146/2002 privind formarea și utilizarea resurselor derulate prin trezoreria statului, aprobată cu modificări prin Legea nr. 201/2003, aprobate prin Ordinul ministrului finanțelor publice nr. 1235/2003
+
+Ordinul ministrului finanțelor publice nr. 2541/2017 privind modificarea și completarea Ordinului ministrului finanțelor publice nr. 246/2005 pentru aprobarea Normelor metodologice privind utilizarea și completarea ordinului de plată pentru Trezoreria Statului (OPT)
+
+Ordinul ministrului finanțelor publice nr. 2590/2017 privind modificarea și completarea Ordinului viceprim-ministrului, ministrul finanțelor publice, nr. 2004/2013 pentru aprobarea Procedurii privind registrul entităților publice
+
+Ordinul ministrului finanțelor publice nr. 2426/2017 pentru completarea Normelor metodologice privind execuția bugetelor de venituri și cheltuieli ale instituțiilor publice autonome, instituțiilor publice finanțate integral sau parțial din venituri proprii și activităților finanțate integral din venituri proprii, inclusiv a bugetelor creditelor interne, bugetelor creditelor externe, bugetelor fondurilor externe nerambursabile, bugetelor fondului de risc și bugetelor privind activitatea de privatizare, gestionate de instituțiile publice, indiferent de modalitatea de organizare și finanțare a acestora, aprobate prin Ordinul ministrului delegat pentru buget nr. 720/2014
+
 (1) Se consideră a fi locul livrării de bunuri:
 
 a) locul unde se găsesc bunurile în momentul când începe expedierea sau transportul, în cazul bunurilor care sunt expediate sau transportate de furnizor, de cumpărător sau de un terț. Dacă locul livrării, stabilit conform prezentei prevederi, se situează în afara teritoriului european, locul livrării realizate de către importator și locul oricărei livrări ulterioare se consideră în statul membru de import al bunurilor, iar bunurile se consideră a fi transportate sau expediate din statul membru de import; Norme metodologice
@@ -8340,6 +8471,18 @@ ART. 277 - Locul importului de bunuri
 (3) Atunci când bunurile la care se face referire în art. 274 lit. b), care se află în liberă circulație la intrarea în Uniunea Europeană, sunt în una dintre situațiile care le-ar permite, dacă ar fi fost importate în Uniunea Europeană, în sensul art. 274 lit. a), să beneficieze de unul dintre regimurile sau situațiile prevăzute la art. 295 alin. (1) lit. a) pct. 1 - 7 sau sunt sub o procedură de tranzit intern, locul importului este considerat a fi statul membru pe teritoriul căruia se încheie aceste regimuri sau această procedură.
 
 ART. 278 - Locul prestării de servicii
+
+NOTĂ : Ordonanța Guvernului nr. 23/2017 privind plata defalcată a TVA.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2743/2017 pentru aprobarea modelului, conținutului și instrucțiunilor de completare ale formularului (086) "Notificare privind opțiunea de aplicare a mecanismului de plată defalcată a TVA"
+
+Ordinul ministrului finanțelor publice nr. 2540/2017 pentru completarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 146/2002 privind formarea și utilizarea resurselor derulate prin trezoreria statului, aprobată cu modificări prin Legea nr. 201/2003, aprobate prin Ordinul ministrului finanțelor publice nr. 1235/2003
+
+Ordinul ministrului finanțelor publice nr. 2541/2017 privind modificarea și completarea Ordinului ministrului finanțelor publice nr. 246/2005 pentru aprobarea Normelor metodologice privind utilizarea și completarea ordinului de plată pentru Trezoreria Statului (OPT)
+
+Ordinul ministrului finanțelor publice nr. 2590/2017 privind modificarea și completarea Ordinului viceprim-ministrului, ministrul finanțelor publice, nr. 2004/2013 pentru aprobarea Procedurii privind registrul entităților publice
+
+Ordinul ministrului finanțelor publice nr. 2426/2017 pentru completarea Normelor metodologice privind execuția bugetelor de venituri și cheltuieli ale instituțiilor publice autonome, instituțiilor publice finanțate integral sau parțial din venituri proprii și activităților finanțate integral din venituri proprii, inclusiv a bugetelor creditelor interne, bugetelor creditelor externe, bugetelor fondurilor externe nerambursabile, bugetelor fondului de risc și bugetelor privind activitatea de privatizare, gestionate de instituțiile publice, indiferent de modalitatea de organizare și finanțare a acestora, aprobate prin Ordinul ministrului delegat pentru buget nr. 720/2014
 
 (1) În vederea aplicării regulilor referitoare la locul de prestare a serviciilor:
 
@@ -8677,6 +8820,8 @@ h) livrarea de îngrășăminte și de pesticide utilizate în agricultură, sem
 
 Ordinul comun al ministrului finanțelor publice și al ministrului agriculturii și dezvoltării rurale nr. 1155/868/2016 privind aplicarea cotei reduse de TVA de 9% pentru livrarea de îngrășăminte și de pesticide utilizate în agricultură, semințe și alte produse agricole destinate însămânțării sau plantării, precum și pentru prestările de servicii de tipul celor specifice utilizate în sectorul agricol.
 
+Ordinul comun al ministrului finanțelor publice și al ministrului agriculturii și dezvoltării rurale nr. 3132/472/2017 pentru modificarea Ordinului ministrului finanțelor publice și al ministrului agriculturii și dezvoltării rurale nr. 1155/868/2016 privind aplicarea cotei reduse de TVA de 9% pentru livrarea de îngrășăminte și de pesticide utilizate în agricultură, semințe și alte produse agricole destinate însămânțării sau plantării, precum și pentru prestările de servicii de tipul celor specifice utilizate în sectorul agricol.
+
 (3) Cota redusă de 5% se aplică asupra bazei de impozitare pentru următoarele livrări de bunuri și prestări de servicii:
 
 a) manuale școlare, cărți, ziare și reviste, cu excepția celor destinate exclusiv sau în principal publicității; Norme metodologice
@@ -8899,7 +9044,9 @@ Ordin nr. 4146/2015 din 30 decembrie 2015 pentru aprobarea Normelor privind apli
 
 o) livrările de aur către Banca Națională a României;
 
-p) livrările de bunuri către organismele recunoscute care transportă sau expediază aceste bunuri în afara Uniunii Europene, ca parte a activităților umanitare, caritabile sau educative desfășurate în afara Uniunii Europene; scutirea se acordă prin restituirea taxei potrivit unei proceduri stabilite prin ordin al ministrului finanțelor publice.
+p) livrările de bunuri către organismele recunoscute care transportă sau expediază aceste bunuri în afara Uniunii Europene, ca parte a activităților umanitare, caritabile sau educative desfășurate în afara Uniunii Europene; scutirea se acordă prin restituirea taxei potrivit unei proceduri stabilite prin ordin al inistrului finanțelor publice.
+
+Ordinul ministrului finanțelor publice nr. 2376/2017 pentru aprobarea Procedurii privind aplicarea scutirii de taxă pe valoarea adăugată, prevăzută la art. 294 alin. (1) lit. p) din Legea nr. 227/2015 privind Codul fiscal.
 
 (2) Sunt, de asemenea, scutite de taxă următoarele:
 
@@ -9163,6 +9310,8 @@ Ordin nr. 2809/2016 din 29 septembrie 2016 pentru aprobarea Procedurii de soluț
 
 b) persoana impozabilă neînregistrată și care nu este obligată să se înregistreze în scopuri de TVA în România, nestabilită pe teritoriul Uniunii Europene, poate solicita rambursarea taxei aferente importurilor și achizițiilor de bunuri/servicii efectuate în România, dacă, în conformitate cu legile țării unde este stabilită, o persoană impozabilă stabilită în România ar avea același drept de rambursare în ceea ce privește TVA sau alte impozite/taxe similare aplicate în țara respectivă; Norme metodologice
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3159/2017 pentru aprobarea Procedurii de soluționare a cererilor de rambursare a taxei pe valoarea adăugată formulate de către persoane impozabile neînregistrate și care nu sunt obligate să se înregistreze în scopuri de TVA în România, nestabilite pe teritoriul Uniunii Europene, precum și pentru aprobarea modelului și conținutului unor formulare.
+
 c) persoana impozabilă neînregistrată și care nu este obligată să se înregistreze în scopuri de TVA în România, dar care efectuează în România o livrare intracomunitară de mijloace de transport noi scutită, poate solicita rambursarea taxei achitate pentru achiziția efectuată de aceasta în România a respectivului mijloc de transport nou. Rambursarea nu poate să depășească taxa care s-ar aplica dacă livrarea de către această persoană a mijloacelor de transport noi respective ar fi livrare taxabilă. Dreptul de deducere ia naștere și poate fi exercitat doar în momentul livrării intracomunitare a mijlocului de transport nou; Norme metodologice
 
 d) persoana impozabilă stabilită în România, neînregistrată și care nu este obligată să se înregistreze în scopuri de TVA în România, poate solicita rambursarea taxei achitate aferente operațiunilor prevăzute la art. 297 alin. (4) lit. d) sau în alte situații prevăzute prin normele metodologice. Norme metodologice
@@ -9210,6 +9359,8 @@ Ordin nr. 1232/2017 din 12 aprilie 2017 privind modificarea și completarea Ordi
 (12) Pentru operațiuni scutite de taxă cu drept de deducere, prevăzute la art. 294 alin. (1) lit. b), j), l), m) și p), persoanele care nu sunt înregistrate în scopuri de TVA, conform art. 316, pot beneficia de rambursarea taxei, potrivit procedurii prevăzute prin ordin al ministrului finanțelor publice.
 
 Ordin nr. 4146/2015 din 30 decembrie 2015 pentru aprobarea Normelor privind aplicarea scutirii de taxă pe valoarea adăugată prevăzute la art. 294 alin. (1) lit. j), k), l), m) și n) din Legea nr. 227/2015 privind Codul fiscal și la art. X și XI din Acordul dintre România și Statele Unite ale Americii privind statutul forțelor Statelor Unite ale Americii în România, semnat la Washington la 30 octombrie 2001, ratificat prin Legea nr. 260/2002
+
+Ordinul ministrului finanțelor publice nr. 2376/2017 pentru aprobarea Procedurii privind aplicarea scutirii de taxă pe valoarea adăugată, prevăzută la art. 294 alin. (1) lit. p) din Legea nr. 227/2015 privind Codul fiscal.
 
 ART. 304 - Ajustarea taxei deductibile în cazul achizițiilor de servicii și bunuri, altele decât bunurile de capital
 
@@ -9605,6 +9756,8 @@ c) valoarea totală a taxei datorate în Uniunea Europeană.
 
 (11) Persoana impozabilă nestabilită în Uniunea Europeană care utilizează regimul special nu poate deduce TVA prin declarația specială de taxă, conform art. 301, dar va putea exercita acest drept prin rambursarea taxei aferente importurilor și achizițiilor de bunuri/servicii efectuate în România, în conformitate cu prevederile art. 302 alin. (1) lit. b), chiar dacă o persoană impozabilă stabilită în România nu ar avea dreptul la o compensație similară în ceea ce privește taxa sau un alt impozit similar, în condițiile prevăzute de legislația țării în care își are sediul persoana impozabilă nestabilită.
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3159/2017 pentru aprobarea Procedurii de soluționare a cererilor de rambursare a taxei pe valoarea adăugată formulate de către persoane impozabile neînregistrate și care nu sunt obligate să se înregistreze în scopuri de TVA în România, nestabilite pe teritoriul Uniunii Europene, precum și pentru aprobarea modelului și conținutului unor formulare.
+
 (12) Persoana impozabilă nestabilită în Uniunea Europeană trebuie să țină o evidență suficient de detaliată a serviciilor pentru care se aplică acest regim special, pentru a permite organelor fiscale competente din statele membre de consum să determine dacă declarația prevăzută la alin. (7) este corectă. Aceste evidențe se pun la dispoziție electronic, la solicitarea organului fiscal competent, precum și a statelor membre de consum. Persoana impozabilă nestabilită va păstra aceste evidențe pe o perioadă de 10 ani de la încheierea anului în care s-au prestat serviciile.
 
 Ordin nr. 3737/2016 din 29 decembrie 2016 pentru aprobarea Procedurii de înregistrare a persoanelor impozabile, în vederea utilizării unuia dintre regimurile speciale pentru servicii electronice, de telecomunicații, de radiodifuziune sau televiziune, precum și pentru declararea taxei pe valoarea adăugată, potrivit prevederilor art. 314 și art. 315 din Codul fiscal, în situația în care România este stat membru de înregistrare
@@ -9751,6 +9904,18 @@ CAPITOLUL XIII - Obligații
 
 ART. 316 - înregistrarea persoanelor impozabile în scopuri de TVA
 
+NOTĂ : Ordonanța Guvernului nr. 23/2017 privind plata defalcată a TVA.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2743/2017 pentru aprobarea modelului, conținutului și instrucțiunilor de completare ale formularului (086) "Notificare privind opțiunea de aplicare a mecanismului de plată defalcată a TVA"
+
+Ordinul ministrului finanțelor publice nr. 2540/2017 pentru completarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 146/2002 privind formarea și utilizarea resurselor derulate prin trezoreria statului, aprobată cu modificări prin Legea nr. 201/2003, aprobate prin Ordinul ministrului finanțelor publice nr. 1235/2003
+
+Ordinul ministrului finanțelor publice nr. 2541/2017 privind modificarea și completarea Ordinului ministrului finanțelor publice nr. 246/2005 pentru aprobarea Normelor metodologice privind utilizarea și completarea ordinului de plată pentru Trezoreria Statului (OPT)
+
+Ordinul ministrului finanțelor publice nr. 2590/2017 privind modificarea și completarea Ordinului viceprim-ministrului, ministrul finanțelor publice, nr. 2004/2013 pentru aprobarea Procedurii privind registrul entităților publice
+
+Ordinul ministrului finanțelor publice nr. 2426/2017 pentru completarea Normelor metodologice privind execuția bugetelor de venituri și cheltuieli ale instituțiilor publice autonome, instituțiilor publice finanțate integral sau parțial din venituri proprii și activităților finanțate integral din venituri proprii, inclusiv a bugetelor creditelor interne, bugetelor creditelor externe, bugetelor fondurilor externe nerambursabile, bugetelor fondului de risc și bugetelor privind activitatea de privatizare, gestionate de instituțiile publice, indiferent de modalitatea de organizare și finanțare a acestora, aprobate prin Ordinul ministrului delegat pentru buget nr. 720/2014
+
 (1) Persoana impozabilă care are sediul activității economice în România și realizează sau intenționează să realizeze o activitate economică ce implică operațiuni taxabile, scutite de taxa pe valoarea adăugată cu drept de deducere și/sau operațiuni rezultate din activități economice pentru care locul livrării/prestării se consideră ca fiind în străinătate, dacă taxa ar fi deductibilă, în cazul în care aceste operațiuni ar fi fost realizate în România conform art. 297 alin. (4) lit. b) și d), trebuie să solicite înregistrarea în scopuri de TVA la organul fiscal competent, după cum urmează:
 
 a) înainte de realizarea unor astfel de operațiuni, în următoarele cazuri:
@@ -9761,11 +9926,15 @@ a) înainte de realizarea unor astfel de operațiuni, în următoarele cazuri:
 
 Ordin nr. 521/2016 din 26 ianuarie 2016 pentru aprobarea Procedurii de înregistrare în scopuri de taxă pe valoarea adăugată, potrivit prevederilor art. 316 alin. (1) lit. a) sau c) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, și pentru aprobarea modelului și conținutului unui formular
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2856/2017 privind stabilirea criteriilor pentru evaluarea riscului fiscal în cazul înregistrării și anulării înregistrării în scopuri de taxă pe valoarea adăugată, pentru aprobarea Procedurii privind evaluarea riscului fiscal pentru persoanele impozabile care solicită înregistrarea în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (1) lit. a) și c) și alin. (12) lit. e) din Legea nr. 227/2015 privind Codul fiscal, pentru aprobarea Procedurii de înregistrare, la cerere, în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (12) lit. e) din Legea nr. 227/2015 privind Codul fiscal, precum și pentru aprobarea Procedurii de anulare, din oficiu, a înregistrării în scopuri de taxă pe valoarea adăugată a persoanelor impozabile care prezintă risc fiscal ridicat potrivit art. 316 alin. (11) lit. h) din Legea nr. 227/2015 privind Codul fiscal
+
 b) dacă în cursul unui an calendaristic atinge sau depășește plafonul de scutire prevăzut la art. 310 alin. (1), în termen de 10 zile de la sfârșitul lunii în care a atins sau a depășit acest plafon;
 
 c) dacă cifra de afaceri realizată în cursul unui an calendaristic este inferioară plafonului de scutire prevăzut la art. 310 alin. (1), dar optează pentru aplicarea regimului normal de taxă;
 
 Ordin nr. 521/2016 din 26 ianuarie 2016 pentru aprobarea Procedurii de înregistrare în scopuri de taxă pe valoarea adăugată, potrivit prevederilor art. 316 alin. (1) lit. a) sau c) din Legea nr. 227/2015 privind Codul fiscal, cu modificările și completările ulterioare, și pentru aprobarea modelului și conținutului unui formular
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2856/2017 privind stabilirea criteriilor pentru evaluarea riscului fiscal în cazul înregistrării și anulării înregistrării în scopuri de taxă pe valoarea adăugată, pentru aprobarea Procedurii privind evaluarea riscului fiscal pentru persoanele impozabile care solicită înregistrarea în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (1) lit. a) și c) și alin. (12) lit. e) din Legea nr. 227/2015 privind Codul fiscal, pentru aprobarea Procedurii de înregistrare, la cerere, în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (12) lit. e) din Legea nr. 227/2015 privind Codul fiscal, precum și pentru aprobarea Procedurii de anulare, din oficiu, a înregistrării în scopuri de taxă pe valoarea adăugată a persoanelor impozabile care prezintă risc fiscal ridicat potrivit art. 316 alin. (11) lit. h) din Legea nr. 227/2015 privind Codul fiscal
 
 d) dacă efectuează operațiuni scutite de taxă și optează pentru taxarea acestora, conform art. 292 alin. (3). Norme metodologice
 
@@ -9807,7 +9976,11 @@ b) să efectueze o livrare intracomunitară de bunuri scutită de taxă. Norme m
 
 (8) Organele fiscale competente vor înregistra în scopuri de TVA, conform prezentului articol, toate persoanele care, în conformitate cu prevederile prezentului titlu, sunt obligate să solicite înregistrarea, conform alin. (1), (2), (4) și (6).
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2856/2017 privind stabilirea criteriilor pentru evaluarea riscului fiscal în cazul înregistrării și anulării înregistrării în scopuri de taxă pe valoarea adăugată, pentru aprobarea Procedurii privind evaluarea riscului fiscal pentru persoanele impozabile care solicită înregistrarea în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (1) lit. a) și c) și alin. (12) lit. e) din Legea nr. 227/2015 privind Codul fiscal, pentru aprobarea Procedurii de înregistrare, la cerere, în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (12) lit. e) din Legea nr. 227/2015 privind Codul fiscal, precum și pentru aprobarea Procedurii de anulare, din oficiu, a înregistrării în scopuri de taxă pe valoarea adăugată a persoanelor impozabile care prezintă risc fiscal ridicat potrivit art. 316 alin. (11) lit. h) din Legea nr. 227/2015 privind Codul fiscal
+
 (9) Prin excepție de la prevederile alin. (8), organele fiscale competente nu înregistrează în scopuri de TVA persoana impozabilă, societate cu sediul activității economice în România, înființată în baza Legii societăților nr. 31/1990, republicată, cu modificările și completările ulterioare, care prezintă risc fiscal ridicat. Prin ordin al președintelui A.N.A.F. se stabilesc criteriile pentru evaluarea riscului fiscal.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2856/2017 privind stabilirea criteriilor pentru evaluarea riscului fiscal în cazul înregistrării și anulării înregistrării în scopuri de taxă pe valoarea adăugată, pentru aprobarea Procedurii privind evaluarea riscului fiscal pentru persoanele impozabile care solicită înregistrarea în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (1) lit. a) și c) și alin. (12) lit. e) din Legea nr. 227/2015 privind Codul fiscal, pentru aprobarea Procedurii de înregistrare, la cerere, în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (12) lit. e) din Legea nr. 227/2015 privind Codul fiscal, precum și pentru aprobarea Procedurii de anulare, din oficiu, a înregistrării în scopuri de taxă pe valoarea adăugată a persoanelor impozabile care prezintă risc fiscal ridicat potrivit art. 316 alin. (11) lit. h) din Legea nr. 227/2015 privind Codul fiscal
 
 (10) În cazul în care o persoană este obligată să se înregistreze în scopuri de TVA, în conformitate cu prevederile alin. (1) lit. b), alin. (2), (4) sau (6), și nu solicită înregistrarea, organele fiscale competente vor înregistra persoana respectivă din oficiu. Norme metodologice
 
@@ -9833,6 +10006,8 @@ g) în situația persoanelor impozabile care solicită scoaterea din evidența p
 
 h) dacă persoana impozabilă, societate cu sediul activității economice în România, înființată în baza Legii societăților nr. 31/1990, republicată, cu modificările și completările ulterioare, supusă înmatriculării la registrul comerțului, prezintă risc fiscal ridicat. Prin ordin al președintelui A.N.A.F. se stabilesc criteriile pentru evaluarea riscului fiscal.
 
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2856/2017 privind stabilirea criteriilor pentru evaluarea riscului fiscal în cazul înregistrării și anulării înregistrării în scopuri de taxă pe valoarea adăugată, pentru aprobarea Procedurii privind evaluarea riscului fiscal pentru persoanele impozabile care solicită înregistrarea în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (1) lit. a) și c) și alin. (12) lit. e) din Legea nr. 227/2015 privind Codul fiscal, pentru aprobarea Procedurii de înregistrare, la cerere, în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (12) lit. e) din Legea nr. 227/2015 privind Codul fiscal, precum și pentru aprobarea Procedurii de anulare, din oficiu, a înregistrării în scopuri de taxă pe valoarea adăugată a persoanelor impozabile care prezintă risc fiscal ridicat potrivit art. 316 alin. (11) lit. h) din Legea nr. 227/2015 privind Codul fiscal
+
 (12) Procedura de anulare a înregistrării în scopuri de TVA este stabilită prin normele procedurale în vigoare. După anularea înregistrării în scopuri de TVA conform alin. (11) lit. a) - e) și h), organele fiscale înregistrează persoanele impozabile la solicitarea acestora, astfel:
 
 a) în situația prevăzută la alin. (11) lit. a), dacă încetează situația care a condus la anulare, de la data comunicării deciziei de înregistrare în scopuri de TVA;
@@ -9848,6 +10023,8 @@ c) în situația prevăzută la alin. (11) lit. d), de la data comunicării deci
 d) în situația prevăzută la alin. (11) lit. e), pe baza unei declarații pe propria răspundere din care să rezulte că va desfășura activități economice. Data înregistrării în scopuri de TVA a persoanei impozabile este data comunicării deciziei de înregistrare în scopuri de TVA;
 
 e) în situația prevăzută la alin. (11) lit. h), dacă încetează situația care a condus la anulare, respectiv societatea nu mai prezintă risc fiscal ridicat, conform criteriilor stabilite la alin. (11) lit. h), de la data comunicării deciziei de înregistrare în scopuri de TVA.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2856/2017 privind stabilirea criteriilor pentru evaluarea riscului fiscal în cazul înregistrării și anulării înregistrării în scopuri de taxă pe valoarea adăugată, pentru aprobarea Procedurii privind evaluarea riscului fiscal pentru persoanele impozabile care solicită înregistrarea în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (1) lit. a) și c) și alin. (12) lit. e) din Legea nr. 227/2015 privind Codul fiscal, pentru aprobarea Procedurii de înregistrare, la cerere, în scopuri de taxă pe valoarea adăugată potrivit art. 316 alin. (12) lit. e) din Legea nr. 227/2015 privind Codul fiscal, precum și pentru aprobarea Procedurii de anulare, din oficiu, a înregistrării în scopuri de taxă pe valoarea adăugată a persoanelor impozabile care prezintă risc fiscal ridicat potrivit art. 316 alin. (11) lit. h) din Legea nr. 227/2015 privind Codul fiscal
 
 (13) Persoanele impozabile aflate în situațiile prevăzute la alin. (11) au obligația să depună ultimul decont de taxă prevăzut la art. 323 , indiferent de perioada fiscală aplicată conform art. 322, până la data de 25 a lunii următoare celei în care a fost comunicată decizia de anulare a înregistrării în scopuri de TVA.
 
@@ -9886,6 +10063,12 @@ Ordin nr. 511/2017 din 19 ianuarie 2017 privind modificarea și completarea Ordi
 Ordin nr. 1381/2017 din 27 aprilie 2017 privind modificarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 631/2016 pentru aprobarea modelului și conținutului unor formulare de înregistrare/anulare a înregistrării în scopuri de taxă pe valoarea adăugată.
 
 Ordin nr. 1382/2017 din 27 aprilie 2017 privind modificarea anexei nr. 1 la Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3698/2015 pentru aprobarea formularelor de înregistrare fiscală a contribuabililor și a tipurilor de obligații fiscale care formează vectorul fiscal.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2899/2017 privind modificarea Ordinului președintelui Agenției Naționale de administrare Fiscală nr. 2012/2016 pentru aprobarea Procedurii de modificare, din oficiu, a vectorului fiscal cu privire la TVA, precum și a modelului și conținutului unor formulare
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3300/2017 privind modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 2011/2016 pentru aprobarea Procedurii de înregistrare, la cerere, în scopuri de taxă pe valoarea adăugată, potrivit prevederilor art. 316 alin. (12) din Legea nr. 227/2015 privind Codul fiscal, precum și pentru aprobarea modelului și conținutului unor formulare.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 3725/2017 pentru aprobarea formularelor de înregistrare fiscală a contribuabililor și a tipurilor de obligații fiscale care formează vectorul fiscal.
 
 ART. 317 - Înregistrarea în scopuri de TVA a altor persoane care efectuează achiziții intracomunitare sau pentru servicii
 
@@ -9930,6 +10113,8 @@ Ordin nr. 631/2016 din 09 februarie 2016 pentru aprobarea modelului și conținu
 Ordin nr. 2012/2016 din 5 iulie 2016 pentru aprobarea procedurii de modificare, din oficiu, a vectorului fiscal cu privire la TVA, precum și pentru aprobarea modelului și conținutului unor formulare
 
 Ordin nr. 1381/2017 din 27 aprilie 2017 privind modificarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 631/2016 pentru aprobarea modelului și conținutului unor formulare de înregistrare/anulare a înregistrării în scopuri de taxă pe valoarea adăugată.
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2899/2017 privind modificarea Ordinului președintelui Agenției Naționale de administrare Fiscală nr. 2012/2016 pentru aprobarea Procedurii de modificare, din oficiu, a vectorului fiscal cu privire la TVA, precum și a modelului și conținutului unor formulare
 
 ART. 318 - Prevederi generale referitoare la înregistrare
 
@@ -11158,6 +11343,8 @@ ART. 359 - Reguli generale
 
 Ordin nr. 1058/2016 din 05 iulie 2016 pentru modificarea și completarea unor ordine ale ministrului finanțelor publice
 
+Ordinul ministrului finanțelor publice nr. 2482/2017 privind procedura și condițiile în care se realizează autorizarea antrepozitelor fiscale, a destinatarilor înregistrați, a expeditorilor înregistrați și a importatorilor autorizați
+
 ART. 360 - Comisia - *** A B R O G A T ***
 
 ART. 361 - Comisiile teritoriale - *** A B R O G A T ***
@@ -11298,6 +11485,8 @@ ART. 366 - Respingerea cererii de autorizare
 
 (4) Procedura de soluționare a contestațiilor se stabilește prin ordin al ministrului finanțelor publice.
 
+Ordinul ministrului finanțelor publice nr. 3004/2017 privind aprobarea Procedurii de soluționare a contestațiilor prevăzute la art. 366 alin. (2), art. 369 alin. (5), art. 374 alin. (2), art. 377 alin. (4), art. 382 alin. (2), art. 385 alin. (4), art. 390 alin. (2) și art. 393 alin. (4) din Legea nr. 227/2015 privind Codul fiscal.
+
 ART. 367 - Obligațiile antrepozitarului autorizat
 
 (1) Orice antrepozitar autorizat trebuie să îndeplinească următoarele cerințe:
@@ -11386,6 +11575,8 @@ c) până la soluționarea definitivă a cauzei penale, în cazul în care a fos
 
 (5) Antrepozitarul autorizat poate contesta decizia de suspendare, revocare sau anulare a autorizației pentru un antrepozit fiscal la structura cu atribuții de soluționare a contestațiilor din cadrul Ministerului Finanțelor Publice - aparat central, potrivit legislației privind contenciosul administrativ.
 
+Ordinul ministrului finanțelor publice nr. 3004/2017 privind aprobarea Procedurii de soluționare a contestațiilor prevăzute la art. 366 alin. (2), art. 369 alin. (5), art. 374 alin. (2), art. 377 alin. (4), art. 382 alin. (2), art. 385 alin. (4), art. 390 alin. (2) și art. 393 alin. (4) din Legea nr. 227/2015 privind Codul fiscal.
+
 (6) Decizia de suspendare sau de revocare a autorizației de antrepozit fiscal produce efecte de la data comunicării sau de la o altă dată ulterioară comunicării cuprinsă în aceasta, după caz. Decizia de anulare a autorizației de antrepozit fiscal produce efecte începând de la data emiterii autorizației.
 
 (7) Contestarea deciziei de suspendare, revocare sau anulare a autorizației de antrepozit fiscal nu suspendă efectele juridice ale acestei decizii pe perioada soluționării contestației în procedură administrativă.
@@ -11472,8 +11663,9 @@ ART. 374 - Respingerea cererii de autorizare ca destinatar înregistrat
 
 (2) În cazul în care autoritatea prevăzută la art. 359 alin. (1) a respins cererea de autorizare a unui destinatar înregistrat, persoana care a depus cererea poate contesta această decizie la structura cu atribuții de soluționare a contestațiilor din cadrul Ministerului Finanțelor Publice - aparat central, conform prevederilor legislației privind contenciosul administrativ.
 
-ART. 375 - Obligațiile destinatarului înregistrat
+Ordinul ministrului finanțelor publice nr. 3004/2017 privind aprobarea Procedurii de soluționare a contestațiilor prevăzute la art. 366 alin. (2), art. 369 alin. (5), art. 374 alin. (2), art. 377 alin. (4), art. 382 alin. (2), art. 385 alin. (4), art. 390 alin. (2) și art. 393 alin. (4) din Legea nr. 227/2015 privind Codul fiscal.
 
+ART. 375 - Obligațiile destinatarului înregistrat
 (1) Orice destinatar înregistrat are obligația de a îndeplini următoarele cerințe:
 
 a) să garanteze plata accizelor în condițiile prevăzute în normele metodologice, înaintea expedierii de către antrepozitarul autorizat sau a expeditorului înregistrat a produselor accizabile;
@@ -11515,6 +11707,8 @@ e) În cazul în care destinatarul înregistrat dorește să renunțe la autoriz
 (3) În cazuri excepționale când interesele legitime ale destinatarului înregistrat impun aceasta, autoritatea prevăzută la art. 359 alin. (1) poate decala termenul de intrare în vigoare a deciziei de revocare, la o dată ulterioară.
 
 (4) Destinatarul înregistrat nemulțumit poate contesta decizia de revocare a autorizației la structura cu atribuții de soluționare a contestațiilor din cadrul Ministerului Finanțelor Publice - aparat central, potrivit legislației privind contenciosul administrativ.
+
+Ordinul ministrului finanțelor publice nr. 3004/2017 privind aprobarea Procedurii de soluționare a contestațiilor prevăzute la art. 366 alin. (2), art. 369 alin. (5), art. 374 alin. (2), art. 377 alin. (4), art. 382 alin. (2), art. 385 alin. (4), art. 390 alin. (2) și art. 393 alin. (4) din Legea nr. 227/2015 privind Codul fiscal.
 
 (5) Contestarea deciziei de revocare a autorizației de destinatar înregistrat nu suspendă efectele juridice ale acestei decizii pe perioada soluționării contestației în procedură administrativă.
 
@@ -11576,6 +11770,8 @@ ART. 382 - Respingerea cererii de autorizare ca expeditor înregistrat
 
 (2) În cazul în care autoritatea prevăzută la art. 359 alin. (1) a respins cererea de autorizare a unui expeditor înregistrat, persoana care a depus cererea poate contesta această decizie la structura cu atribuții de soluționare a contestațiilor din cadrul Ministerului Finanțelor Publice - aparat central, conform prevederilor legislației privind contenciosul administrativ. Norme metodologice
 
+Ordinul ministrului finanțelor publice nr. 3004/2017 privind aprobarea Procedurii de soluționare a contestațiilor prevăzute la art. 366 alin. (2), art. 369 alin. (5), art. 374 alin. (2), art. 377 alin. (4), art. 382 alin. (2), art. 385 alin. (4), art. 390 alin. (2) și art. 393 alin. (4) din Legea nr. 227/2015 privind Codul fiscal.
+
 ART. 383 - Obligațiile expeditorului înregistrat
 
 (1) Orice expeditor înregistrat are obligația de a garanta plata accizelor în condițiile prevăzute în normele metodologice, înaintea expedierii produselor accizabile.
@@ -11607,6 +11803,8 @@ e) În cazul în care expeditorul înregistrat dorește să renunțe la autoriza
 (3) Decizia de revocare se comunică expeditorului înregistrat și produce efecte de la data la care a fost adusă la cunoștința acestuia.
 
 (4) Expeditorul înregistrat nemulțumit poate contesta decizia de revocare a autorizației la structura cu atribuții de soluționare a contestațiilor din cadrul Ministerului Finanțelor Publice - aparat central, potrivit legislației privind contenciosul administrativ.
+
+Ordinul ministrului finanțelor publice nr. 3004/2017 privind aprobarea Procedurii de soluționare a contestațiilor prevăzute la art. 366 alin. (2), art. 369 alin. (5), art. 374 alin. (2), art. 377 alin. (4), art. 382 alin. (2), art. 385 alin. (4), art. 390 alin. (2) și art. 393 alin. (4) din Legea nr. 227/2015 privind Codul fiscal.
 
 (5) Contestarea deciziei de revocare a autorizației de expeditor înregistrat nu suspendă efectele juridice ale acestei decizii pe perioada soluționării contestației în procedură administrativă.
 
@@ -11656,6 +11854,8 @@ e) data de la care autorizația devine valabilă;
 
 f) locurile de import.
 
+Ordinul ministrului finanțelor publice nr. 2331/2017 privind modificarea și completarea Ordinului ministrului finanțelor publice nr. 221/2016 pentru aprobarea configurației Codului de accize și a Nomenclatorului codurilor de produse accizabile armonizate.
+
 (4) Autorizația de importator autorizat este valabilă începând cu data de 1 a lunii următoare celei în care acesta face dovada constituirii garanției în cuantumul și în forma aprobate de autoritatea competentă.
 
 (5) Autorizațiile pot fi modificate de către autoritatea competentă din oficiu sau la cerere.
@@ -11669,6 +11869,8 @@ ART. 390 - Respingerea cererii de autorizare ca importator autorizat
 (1) Respingerea cererii de autorizare se comunică în scris, odată cu motivele luării acestei decizii.
 
 (2) În cazul în care autoritatea prevăzută la art. 359 alin. (1) a respins cererea de autorizare a unui importator autorizat, persoana care a depus cererea poate contesta această decizie la structura cu atribuții de soluționare a contestațiilor din cadrul Ministerului Finanțelor Publice - aparat central, conform prevederilor legislației privind contenciosul administrativ. Norme metodologice
+
+Ordinul ministrului finanțelor publice nr. 3004/2017 privind aprobarea Procedurii de soluționare a contestațiilor prevăzute la art. 366 alin. (2), art. 369 alin. (5), art. 374 alin. (2), art. 377 alin. (4), art. 382 alin. (2), art. 385 alin. (4), art. 390 alin. (2) și art. 393 alin. (4) din Legea nr. 227/2015 privind Codul fiscal.
 
 ART. 391 - Obligațiile importatorului autorizat
 
@@ -11701,6 +11903,8 @@ e) În cazul în care importatorul autorizat dorește să renunțe la autorizaț
 (3) Decizia de revocare se comunică importatorului autorizat și produce efecte de la data la care a fost adusă la cunoștința acestuia.
 
 (4) Importatorul autorizat nemulțumit poate contesta decizia de revocare a autorizației la structura cu atribuții de soluționare a contestațiilor din cadrul Ministerului Finanțelor Publice - aparat central, potrivit legislației privind contenciosul administrativ.
+
+Ordinul ministrului finanțelor publice nr. 3004/2017 privind aprobarea Procedurii de soluționare a contestațiilor prevăzute la art. 366 alin. (2), art. 369 alin. (5), art. 374 alin. (2), art. 377 alin. (4), art. 382 alin. (2), art. 385 alin. (4), art. 390 alin. (2) și art. 393 alin. (4) din Legea nr. 227/2015 privind Codul fiscal.
 
 (5) Contestarea deciziei de revocare a autorizației de importator autorizat nu suspendă efectele juridice ale acestei decizii pe perioada soluționării contestației în procedură administrativă.
 
@@ -12544,6 +12748,8 @@ ART. 4481 - Excepție de la regimul accizelor nearmonizate
 
 Prin excepție de la prezentul capitol, pentru produsele prevăzute la art. 439 alin. (2) lit. a), fabricate în antrepozite fiscale de producție din România, se aplică în mod corespunzător prevederile art. 339 - 341 și ale secțiunilor a 3-a, a 9-a și a 16-a de la capitolul I - Regimul accizelor armonizate, titlul VIII - Accize și alte taxe speciale.
 
+Ordinul ministrului finanțelor publice nr. 2331/2017 privind modificarea și completarea Ordinului ministrului finanțelor publice nr. 221/2016 pentru aprobarea configurației Codului de accize și a Nomenclatorului codurilor de produse accizabile armonizate.
+
 ART. 4482 - Restituiri speciale
 
 (1) Pentru produsele prevăzute la art. 439 alin. (2) lit. a), fabricate în antrepozite fiscale de producție din România, accizele nearmonizate aferente, virate la bugetul de stat, pot fi restituite la solicitarea antrepozitarilor autorizați care livrează aceste produse în alte state membre ori le exportă.
@@ -12551,6 +12757,8 @@ ART. 4482 - Restituiri speciale
 (2) Cuantumul sumei restituite potrivit alin. (1) nu poate depăși suma efectiv plătită la bugetul de stat.
 
 (3) Modalitatea și condițiile de acordare a restituirii prevăzute la alin. (1) se stabilesc prin normele metodologice.
+
+Ordinul ministrului finanțelor publice nr. 2331/2017 privind modificarea și completarea Ordinului ministrului finanțelor publice nr. 221/2016 pentru aprobarea configurației Codului de accize și a Nomenclatorului codurilor de produse accizabile armonizate.
 
 CAPITOLUL III - Contravenții și sancțiuni
 
@@ -12725,15 +12933,15 @@ kg	383,78	398,70	416,70	435,40	457,20	480,10
 kg	383,78	398,70	416,70	435,40	457,20	480,10
 Produse energetice
 10	Benzină cu plumb
-tonă	2.530,17	2.530,17	2.530,17	2.530,17	2.530,17	2.530,17
+tonă	2.737,96*)	2.945,75**)	2.945,75	2.945,75	2.945,75	2.945,75	2.945,75
 1.000 litri
-1.948,23	1.948,23	1.948,23	1.948,23	1.948,23	1.948,23
+2.108,23*)	2.268,23**)	2.268,23	2.268,23	2.268,23	2.268,23	2.268,23
 11	Benzină fără plumb
-tonă	2.151,13	2.151,13	2.151,13	2.151,13	2.151,13	2.151,13
+tonă	2.358,92*)	2.566,71**)	2.566,71	2.566,71	2.566,71	2.566,71	2.566,71
 1.000 litri
-1.656,36	1.656,36	1.656,36	1.656,36	1.656,36	1.656,36
-12	Motorină	tonă	1.796,53	1.796,53	1.796,53	1.796,53	1.796,53	1.796,53
-1.000 litri	1.518,04	1.518,04	1.518,04	1.518,04	1.518,04	1.518,04
+1.816,36*)	1.976,36**)	1.976,36	1.976,36	1.976,36	1.976,36	1.976,36
+12	Motorină	tonă	1.985,89*)	2.175,24**)	2.175,24	2.175,24	2.175,24	2.175,24	2.175,24
+1.000 litri	1.678,04*)	1.838,04**)	1.838,04	1.838,04	1.838,04	1.838,04	1.838,04
 13	Păcură	tonă
 13.1. utilizată în scop comercial
 71,07	71,07	71,07	71,07	71,07	71,07
@@ -12745,7 +12953,7 @@ tonă
 607,70	607,70	607,70	607,70	607,70	607,70
 14.2. utilizat drept combustibil pentru încălzire
 537,76	537,76	537,76	537,76	537,76	537,76
-14.3. utilizat în consum casnic *)
+14.3. utilizat în consum casnic ***)
 0,00	0,00	0,00	0,00	0,00	0,00
 15	Gaz natural
 GJ
@@ -12754,7 +12962,7 @@ GJ
 15.2.1. în scop comercial
 0,81	0,81	0,81	0,81	0,81	0,81
 15.2.2. în scop necomercial	1,52	1,52	1,52	1,52	1,52	1,52
-16	Petrol lampant (kerosen) **)
+16	Petrol lampant (kerosen) ****)
 16.1. utilizat drept combustibil pentru motor
 tonă	2.640,92	2.640,92	2.640,92	2.640,92	2.640,92	2.640,92
 1.000 litri
@@ -12768,9 +12976,13 @@ tonă	2.640,92	2.640,92	2.640,92	2.640,92	2.640,92	2.640,92
 18	Energie electrică	MWh
 18.1. Energie electrică utilizată în scop comercial	2,37	2,37	2,37	2,37	2,37	2,37
 18.2. Energie electrică utilizată în scop necomercial	4,74	4,74	4,74	4,74	4,74	4,74
-*) Prin gaze petroliere lichefiate utilizate în consum casnic se înțelege gazele petroliere lichefiate, distribuite în butelii tip aragaz. Buteliile tip aragaz sunt acele butelii cu o capacitate de până la maximum 12,5 kg.
+*) Nivel aplicabil începând cu data de 15 septembrie 2017.
 
-**) Petrolul lampant utilizat drept combustibil de persoanele fizice nu se accizează
+**) Nivel aplicabil începând cu data de 1 octombrie 2017.
+
+***) Prin gaze petroliere lichefiate utilizate în consum casnic se înțelege gazele petroliere lichefiate, distribuite în butelii tip aragaz. Buteliile tip aragaz sunt acele butelii cu o capacitate de până la maximum 12,5 kg.
+
+****) Petrolul lampant utilizat drept combustibil de persoanele fizice nu se accizează
 
 
 ANEXA 2
@@ -14343,6 +14555,112 @@ Pentru ajustări/estimări efectuate între persoane române afiliate se aplică
 
 (15) Ajustarea/Estimarea prețurilor de transfer, pentru a reflecta principiul valorii de piață în cadrul tranzacțiilor derulate între persoane al produselor, mărfurilor sau serviciilor furnizate în cadrul tranzacției, va fi efectuată de organele de inspecție fiscală la nivelul tendinței centrale a pieței. Tendința centrală a pieței va fi considerată valoarea mediană a intervalului de comparare a indicatorilor financiari ai societăților/tranzacțiilor comparabile identificate sau în situația în care nu se găsesc suficiente societăți/tranzacții comparabile, pentru a putea stabili un interval de comparabilitate, se vor identifica cel mult trei societăți sau tranzacții comparabile și se va utiliza media aritmetică a indicatorilor financiari ai acestora sau a tranzacțiilor identificate.
 
+SECȚIUNEA 21 - Reguli speciale pentru aplicarea TVA
+
+51. (1) În sensul art. 11 alin. (6) și (8) din Codul fiscal, persoanele impozabile care au avut codul de înregistrare anulat în baza prevederilor art. 316 alin. (11) lit. a) - e) și h) din Codul fiscal, care se înregistrează în scopuri de TVA conform art. 316 alin. (12) din Codul fiscal, își pot exercita dreptul de deducere pentru achizițiile de bunuri și/sau servicii efectuate în perioada în care au avut codul de înregistrare în scopuri de TVA anulat, prin înscrierea taxei în primul decont de taxă prevăzut la art. 323 din Codul fiscal depus după reînregistrare sau, după caz, într-un decont ulterior. Deducerea taxei se efectuează în limitele și condițiile prevăzute la art. 297 - 302 din Codul fiscal, chiar dacă factura nu cuprinde codul de înregistrare în scopuri de TVA al persoanei impozabile.
+
+(2) După înregistrarea în scopuri de taxă conform art. 316 alin. (12) din Codul fiscal, persoana impozabilă trebuie să emită facturi în care să înscrie distinct taxa pe valoarea adăugată colectată aferentă livrărilor de bunuri/prestărilor de servicii taxabile efectuate în perioada în care au avut codul de înregistrare în scopuri de TVA anulat, care nu se înregistrează în decontul de taxă depus conform art. 323 din Codul fiscal, în secțiunea «Taxa pe valoarea adăugată colectată». În funcție de modalitatea în care au acționat pe perioada în care au avut codul de înregistrare în scopuri de TVA anulat, se disting următoarele situații:
+
+a) persoana impozabilă a colectat TVA pentru operațiunile taxabile, respectiv a depus declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, dar nu a emis facturi. În această situație, după reînregistrarea în scopuri de TVA, persoana impozabilă trebuie să emită facturi pentru livrările de bunuri/prestările de servicii efectuate în perioada în care a avut codul de înregistrare în scopuri de TVA anulat, care să includă informațiile obligatorii prevăzute la art. 319 alin. (20) din Codul fiscal, inclusiv taxa pe valoarea adăugată aferentă, care a fost colectată în perioada în care a avut codul de înregistrare în scopuri de TVA anulat. Aceste facturi nu se includ în decontul de taxă depus conform art. 323 din Codul fiscal, în secțiunea «Taxa pe valoarea adăugată colectată», dacă nu există diferențe între taxa colectată în perioada în care persoana impozabilă a avut codul de înregistrare în scopuri de TVA anulat și taxa înscrisă în facturile emise după reînregistrarea în scopuri de TVA a persoanei impozabile;
+
+b) persoana impozabilă a colectat TVA pentru operațiunile taxabile, respectiv a depus declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, și a emis facturi. În această situație, după reînregistrarea în scopuri de TVA, persoana impozabilă trebuie să emită facturi de corecție conform art. 330 alin. (1) lit. b) din Codul fiscal. În situația în care nu există diferențe între taxa colectată în perioada în care persoana impozabilă a avut codul de înregistrare în scopuri de TVA anulat și taxa înscrisă în facturile emise după reînregistrarea în scopuri de TVA a persoanei impozabile, facturile emise după reînregistrare nu se includ în decontul de taxă depus conform art. 323 din Codul fiscal, în secțiunea «Taxa pe valoarea adăugată colectată»;
+
+c) persoana impozabilă nu a colectat TVA pentru livrările de bunuri/prestările de servicii taxabile efectuate în perioada în care a avut codul de înregistrare în scopuri de TVA anulat, respectiv nu a depus declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, dar a emis facturi. În această situație, după reînregistrarea în scopuri de TVA, persoana impozabilă trebuie să emită facturi de corecție conform art. 330 alin. (1) lit. b) din Codul fiscal. Facturile de corecție nu se înscriu în decontul de taxă depus conform art. 323 din Codul fiscal, în secțiunea «Taxa pe valoarea adăugată colectată», dacă nu există diferențe între taxa pe care ar fi trebuit să o colecteze în perioada în care persoana impozabilă a avut codul de înregistrare în scopuri de TVA anulat și taxa înscrisă în facturile emise după reînregistrarea în scopuri de TVA a persoanei impozabile, ci în «Declarația privind taxa pe valoarea adăugată colectată datorată de către persoanele impozabile al căror cod de înregistrare în scopuri de taxă pe valoarea adăugată a fost anulat conform art. 316 alin. (11) lit. a) - e), lit. g) sau lit. h) din Legea nr. 227/2015 privind Codul fiscal». Persoana impozabilă datorează obligații fiscale accesorii conform art. 173 și 181 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, de la data la care avea obligația să plătească TVA aferentă livrărilor de bunuri/prestărilor de servicii taxabile, efectuate în perioada în care a avut codul de înregistrare în scopuri de TVA anulat, și până la data plății taxei, în baza declarației sus-menționate;
+
+d) persoana impozabilă nu a colectat TVA pentru livrările de bunuri/prestările de servicii taxabile efectuate în perioada în care a avut codul de înregistrare în scopuri de TVA anulat, respectiv nu a depus declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal și nu a emis facturi. În această situație, facturile emise după reînregistrarea în scopuri de TVA nu se înscriu în decontul de taxă depus conform art. 323 din Codul fiscal, în secțiunea «Taxa pe valoarea adăugată colectată», dacă nu există diferențe între taxa pe care ar fi trebuit să o colecteze în perioada în care persoana impozabilă a avut codul de înregistrare în scopuri de TVA anulat și taxa înscrisă în facturile emise după reînregistrarea în scopuri de TVA a persoanei impozabile, ci în «Declarația privind taxa pe valoarea adăugată colectată datorată de către persoanele impozabile al căror cod de înregistrare în scopuri de taxă pe valoarea adăugată a fost anulat conform art. 316 alin. (11) lit. a) - e), lit. g) sau lit. h) din Legea nr. 227/2015 privind Codul fiscal». Persoana impozabilă datorează obligații fiscale accesorii conform art. 173 și 181 din Legea nr. 207/2015, cu modificările și completările ulterioare, de la data la care avea obligația să plătească TVA aferentă livrărilor de bunuri/prestărilor de servicii taxabile, efectuate în perioada în care a avut codul de înregistrare în scopuri de TVA anulat, și până la data plății taxei, în baza declarației sus-menționate.
+
+(3) În situațiile prevăzute la alin. (2), în cazul în care există diferențe între taxa colectată/care ar fi trebuit colectată în perioada în care persoana impozabilă a avut codul de înregistrare în scopuri de TVA anulat și taxa înscrisă în facturile emise după reînregistrarea în scopuri de TVA a persoanei impozabile, în decontul de TVA, în secțiunea «Taxa pe valoarea adăugată colectată», se înscriu numai aceste diferențe.
+
+(4) Prevederile alin. (2) se aplică în cazul în care persoana impozabilă se înregistrează în scopuri de TVA conform art. 316 alin. (12) din Codul fiscal începând cu 1 ianuarie 2017, în situația în care a avut codul de înregistrare în scopuri de TVA anulat în baza prevederilor art. 316 alin. (11) lit. a) - e) și h) din Codul fiscal, respectiv în baza prevederilor art. 153 alin. (9) lit. a) - e) și h) din Legea nr. 571/2003 privind Codul fiscal, cu modificările și completările ulterioare, în vigoare până la 1 ianuarie 2016.
+
+(5) Prevederile alin. (2) nu se aplică în situația în care persoana impozabilă nu are obligația de a emite facturi conform art. 319 din Codul fiscal.
+
+(6) În aplicarea prevederilor art. 11 alin. (7) și (9) din Codul fiscal, persoanele impozabile care au efectuat achiziții de la furnizori/prestatori în perioada în care aceștia au avut codul de înregistrare în scopuri de TVA anulat își exercită dreptul de deducere a TVA pentru achizițiile respective, în limitele și condițiile prevăzute la art. 297 - 302 din Codul fiscal, pe baza facturilor emise de furnizor/prestator conform alin. (2), prin înscrierea taxei în primul decont de taxă prevăzut la art. 323 depus după reînregistrarea furnizorului/prestatorului sau, după caz, într-un decont ulterior.
+
+(7) Exemple pentru aplicarea prevederilor alin. (2) referitoare la emiterea facturilor după înregistrarea în scopuri de TVA:
+
+Exemplul nr. 1: persoana impozabilă a colectat TVA pentru operațiunile taxabile, dar nu a emis facturi.
+
+1. Societatea X are codul de TVA anulat începând cu data de 1 septembrie 2016. În luna octombrie livrează către societatea Y 100 de utilaje a căror valoare înscrisă în contract era de 50.000 lei/bucată, care nu include TVA. Societatea X nu emite factură, dar depune declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal. Calculul taxei colectate de plată se va efectua astfel, ambele variante fiind corecte:
+
+A. Societatea X, având codul de TVA anulat, nu mai poate încasa de la client valoarea TVA și colectează TVA din totalul sumei aferente livrării, respectiv 5.000.000 lei x 20 / 120 = 833.333 lei TVA colectată. Având în vedere că furnizorul nu mai este înregistrat în scopuri de TVA, dacă beneficiarul nu mai acceptă ca la prețul din contract să se adauge și TVA, se consideră că prețul acceptat de beneficiar include TVA datorată de furnizor.
+
+B. Societatea X recuperează de la client și valoarea TVA, clientul acceptând să îi plătească suma de 6.000.000 lei, și colectează TVA aplicând 20% la totalul sumei aferente livrării, respectiv 5.000.000 lei x 20 / 100 = 1.000.000 lei.
+
+2. În cazul în care între societatea X și societatea Y nu există niciun contract sau contractul prevede că prețul include TVA sau nu menționează nimic cu privire la TVA, societatea X avea obligația de a plăti TVA din suma livrării. Astfel, dacă valoarea livrării este de 5.000.000, societatea X avea obligația de a plăti TVA de 833.333 lei.
+
+După reînregistrarea în scopuri de TVA, societatea X va emite facturi cu TVA astfel:
+
+1. În situația de la lit. A poate emite factura astfel: baza impozabilă 4.166.667 și TVA aferentă 833.333 lei, total factură 5.000.000 lei, factură care nu se înscrie în decontul de TVA de către furnizorul X, dar permite deducerea TVA la beneficiarul Y sau, dacă clientul este de acord să plătească în plus pe lângă prețul fără TVA și taxa aferentă, baza impozabilă înscrisă în factură va fi de 5.000.000 plus TVA de 1.000.000 lei. Diferența față de taxa colectată determinată la lit. A se înscrie în decontul de TVA în care este emisă factura respectivă astfel: 5.000.000 - 4.166.667 = 833.333 lei baza impozabilă și TVA aferentă 166.667 lei. Beneficiarul poate deduce TVA de 1.000.000 lei.
+
+În situația de la lit. B, societatea X va emite o factură corectă de 5.000.000 lei cu TVA de 1.000.000 lei, factură care nu se înscrie în decontul de TVA, în secțiunea "Taxa pe valoarea adăugată colectată", de către furnizorul X, care permite deducerea TVA la beneficiarul Y.
+
+2. Societatea X are obligația de a emite factură cu baza impozabilă de 4.166.667 lei și TVA 833.333 lei, factură care nu se înscrie în decontul de TVA, în secțiunea "Taxa pe valoarea adăugată colectată", de către furnizorul X, dar permite deducerea TVA la beneficiarul Y.
+
+Exemplul nr. 2: persoana impozabilă a colectat TVA pentru operațiunile taxabile și a emis facturi
+
+1. Prezentarea situației este aceeași ca la exemplul nr. 1, cu excepția faptului că în acest exemplu societatea X a emis facturi pe perioada în care a avut codul anulat. Calculul taxei colectate de plată se va efectua astfel, ambele variante de determinare a taxei colectate fiind corecte:
+
+A. În ipoteza în care valoarea livrării acceptată de beneficiar este de 5.000.000 lei, societatea X se poate regăsi în următoarele situații:
+
+- ori a emis factura de 5.000.000 lei, fără să înscrie TVA în factură și plătește TVA din această sumă, respectiv 833.333 lei (5.000.000 lei x 20 / 120),
+
+- ori a emis factura calculând TVA din suma facturată și înscriind această taxă în factură: respectiv bază 4.166.667 și TVA 833.333 lei.
+
+B. Societatea X recuperează de la client și valoarea TVA pe lângă prețul din contract, situație în care solicită clientului să îi plătească suma de 6.000.000 lei, și, referitor la facturare, se poate regăsi ori în situația în care a emis o factură de 6.000.000 lei, în care nu a evidențiat TVA, ori a facturat 5.000.000 lei plus TVA 1.000.000 lei, total factură 6.000.000 lei. Pe baza prevederilor contractuale, furnizorul consideră în această situație că are de plată suma de 1.000.000 lei TVA colectată.
+
+2. În cazul în care între societatea X și societatea Y nu există niciun contract sau contractul nu prevede dacă prețul include TVA sau nu menționează nimic cu privire la TVA, societatea X avea obligația de a plăti TVA din suma livrării. Astfel, dacă valoarea livrării este de 5.000.000, societatea X avea obligația de a plăti TVA de 833.333 lei.
+
+După reînregistrarea în scopuri de TVA, societatea X va emite facturi cu TVA astfel:
+
+1. În situația de la lit. A poate emite factura astfel:
+
+- o factură cu semnul minus, în funcție de modalitatea în care a facturat (cu sau fără TVA) și, separat sau pe aceeași factură, va factura cu plus, baza impozabilă de 4.166.667 și TVA aferentă 833.333 lei, total factură 5.000.000 lei. Factura nu se înscrie în decontul de TVA, în secțiunea «Taxa pe valoarea adăugată colectată», al societății X, dar permite deducerea TVA la beneficiarul Y; sau,
+
+- dacă clientul este de acord să plătească în plus pe lângă prețul fără TVA din contract și taxa aferentă, societatea X va emite o factură cu semnul minus, în funcție de modalitatea în care a facturat (cu sau fără TVA) și, separat sau pe aceeași factură, facturează cu plus baza impozabilă 5.000.000 plus TVA de 1.000.000 lei. Diferența față de taxa colectată inițial se înscrie de societatea X în decontul de TVA în care este emisă factura respectivă astfel: 5.000.000 - 4.166.667 = 833.333 lei baza impozabilă și TVA aferentă 166.667 lei. Beneficiarul poate deduce TVA de 1.000.000 lei.
+
+În situația de la lit. B, societatea X va emite o factură cu semnul minus, în funcție de modalitatea în care a facturat inițial (cu sau fără TVA), și facturează baza impozabilă 5.000.000 lei cu TVA de 1.000.000 lei.
+
+2. Societatea X are obligația de a emite factură cu semnul minus, în funcție de modalitatea în care a facturat (cu sau fără TVA) și, separat sau pe aceeași factură, facturează baza impozabilă de 4.166.667 lei și TVA 833.333 lei. Această factură nu se înscrie în decontul de TVA, în secțiunea «Taxa pe valoarea adăugată colectată», de către furnizorul X, dar permite deducerea TVA la beneficiarul Y.
+
+Exemplul nr. 3: persoana impozabilă nu a colectat TVA pentru operațiunile taxabile efectuate în perioada în care a avut codul de înregistrare în scopuri de TVA anulat, dar a emis facturi
+
+1. Societatea X are codul de TVA anulat începând cu data de 1 septembrie 2016. În luna octombrie livrează către societatea Y 100 de utilaje a căror valoarea înscrisă în contract era de 50.000 lei/bucată, exclusiv TVA. Societatea X emite factură, dar nu depune declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal. Facturile au fost emise în următoarele variante:
+
+A. În ipoteza în care valoarea livrării acceptată de beneficiar este de 5.000.000 lei, societatea X se poate regăsi în următoarele situații:
+
+- ori a emis factura de 5.000.000 lei, fără să înscrie în factură taxa datorată de 833.333 lei,
+
+- ori a emis factura calculând TVA din suma facturată și înscriind acest TVA în factură: respectiv bază 4.166.667 și TVA 833.333 lei.
+
+B. Societatea X recuperează de la client și valoarea TVA pe lângă prețul din contract, situație în care solicită clientului să îi plătească suma de 6.000.000 lei, și, referitor la facturare, se poate regăsi ori în situația în care a emis o factură de 6.000.000 lei, în care nu a evidențiat TVA, ori a facturat 5.000.000 lei plus TVA 1.000.000 lei, total factură 6.000.000 lei.
+
+2. În cazul în care între societatea X și societatea Y nu există niciun contract sau contractul nu prevede dacă prețul include TVA sau nu menționează nimic cu privire la TVA, societatea X avea obligația de a plăti TVA din suma livrării. Astfel, dacă valoarea livrării este de 5.000.000, avea obligația de a plăti TVA de 833.333 lei.
+
+După reînregistrarea în scopuri de TVA, societatea X va emite facturi cu TVA astfel:
+
+1. În situația de la lit. A poate emite factura astfel:
+
+- o factură cu semnul minus, în funcție de modalitatea în care a facturat (cu sau fără TVA) și, separat sau pe aceeași factură, va factura cu plus baza impozabilă 4.166.667 și TVA aferentă 833.333 lei, total factură 5.000.000 lei. Factura nu se înscrie în decontul de TVA al societății X, în secțiunea «Taxa pe valoarea adăugată colectată», ci în declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, dar permite deducerea TVA la beneficiarul Y;
+
+- dacă clientul este de acord să plătească în plus pe lângă prețul fără TVA din contract și taxa aferentă, societatea X va emite o factură cu semnul minus, în funcție de modalitatea în care a facturat (cu sau fără TVA) și, separat sau pe aceeași factură, facturează cu plus baza impozabilă 5.000.000 plus TVA de 1.000.000 lei. Diferența față de taxa care ar fi trebuit colectată inițial se înscrie de societatea X în decontul de TVA în care este emisă factura respectivă astfel: 5.000.000 - 4.166.667 = 833.333 lei baza impozabilă și TVA aferentă 166.667 lei. Beneficiarul poate deduce TVA de 1.000.000 lei. Taxa care ar fi trebuit colectată de 833.333 lei se va plăti pe baza Declarației privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, în timp ce diferența de 166.667 lei se înscrie în decont.
+
+În situația de la lit. B, societatea X va emite o factură cu semnul minus, în funcție de modalitatea în care a facturat inițial (cu sau fără TVA), și facturează baza impozabilă 5.000.000 lei cu TVA de 1.000.000 lei.
+
+2. Societatea X are obligația de a emite factură cu semnul minus, în funcție de modalitatea în care a facturat (cu sau fără TVA) și, separat sau pe aceeași factură, facturează baza impozabilă de 4.166.667 lei și TVA 833.333 lei. Această factură nu se înscrie în decontul de TVA, în secțiunea «Taxa pe valoarea adăugată colectată», de către furnizorul X, ci în declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, dar permite deducerea TVA la beneficiarul Y.
+
+Exemplul nr. 4: persoana impozabilă nu a colectat TVA pentru operațiunile taxabile și nici nu a emis facturi
+
+1. Societatea X are codul de TVA anulat începând cu data de 1 septembrie 2016. În luna octombrie livrează către societatea Y 100 de utilaje a căror valoarea înscrisă în contract era de 50.000 lei/bucată, exclusiv TVA. Societatea X nu emite factură și nu depune declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal.
+
+După reînregistrarea în scopuri de TVA, societatea X va emite facturi cu TVA astfel:
+
+a) dacă clientul nu este de acord să plătească TVA, societatea X facturează baza impozabilă 4.166.667 și TVA aferentă 833.333 lei, total factură 5.000.000 lei, factură care nu se înscrie în decontul de TVA, ci în declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, dar permite deducerea TVA la beneficiarul Y;
+
+b) dacă clientul este de acord să plătească în plus pe lângă prețul fără TVA din contract și taxa aferentă, societatea X facturează baza impozabilă 5.000.000 lei plus TVA 1.000.000 lei, total factură 6.000.000 lei, factură care nu se înscrie în decontul de TVA, dar permite deducerea TVA la beneficiarul Y. Diferența de 166.667 lei față de taxa care ar fi trebuit colectată, respectiv 833.333 lei, pornind de la premisa că anterior reînregistrării societății X beneficiarul nu ar fi fost de acord să îi achite acestuia decât valoarea bunurilor exclusiv TVA (5.000.000 lei), se va înscrie în decontul de TVA în care este emisă factura respectivă astfel: 5.000.000 - 4.166.667 = 833.333 lei baza impozabilă și TVA aferentă 166.667 lei. Beneficiarul poate deduce TVA de 1.000.000 lei. Diferența de taxă de 833.333 lei se va plăti pe baza declarației privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal.
+
+2. În cazul în care între societatea X și societatea Y nu există niciun contract sau contractul nu prevede dacă prețul include TVA sau nu menționează nimic cu privire la TVA, societatea X avea obligația de a plăti TVA din suma livrării. Astfel, dacă valoarea livrării este de 5.000.000 lei, societatea X ar fi trebuit să colecteze TVA de 833.333 lei. După înregistrarea în scopuri de TVA, societatea X are obligația de a emite factură cu baza impozabilă de 4.166.667 lei și TVA 833.333 lei, factură care nu se înscrie în decontul de TVA, în secțiunea «Taxa pe valoarea adăugată colectată», de către furnizorul X, ci în declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, dar permite deducerea TVA la beneficiarul Y.
+
 SECȚIUNEA a 3-a - Prevederi privind respectarea regulilor de ajutor de stat
 
 6. Facilitățile fiscale de natura ajutorului de stat, așa cum acesta este definit la art. 2 alin. (1) lit. d) din Ordonanța de urgență a Guvernului nr. 77/2014 privind procedurile naționale în domeniul ajutorului de stat, precum și pentru modificarea și completarea Legii concurenței nr. 21/1996, aprobată cu modificări și completări prin Legea nr. 20/2015, cu modificările ulterioare, se acordă cu respectarea prevederilor naționale și comunitare în domeniul ajutorului de stat.
@@ -14523,112 +14841,6 @@ c) transferul sumelor aferente reevaluării din contul 105 Rezerve din reevaluar
 (ii) sumele care sunt deduse ulterior prin intermediul amortizării fiscale sau al cheltuielilor privind activele cedate și/sau casate se impozitează concomitent cu deducerea amortizării fiscale, respectiv la momentul scăderii din gestiune a mijloacelor fixe și terenurilor, după caz.
 
 Contribuabilii care aplică reglementările contabile conforme cu Standardele internaționale de raportare financiară utilizează referințele pentru simbolul și denumirea conturilor corespunzător reglementărilor contabile aplicabile.
-
-SECȚIUNEA 21 - Reguli speciale pentru aplicarea TVA
-
-51. (1) În sensul art. 11 alin. (6) și (8) din Codul fiscal, persoanele impozabile care au avut codul de înregistrare anulat în baza prevederilor art. 316 alin. (11) lit. a) - e) și h) din Codul fiscal, care se înregistrează în scopuri de TVA conform art. 316 alin. (12) din Codul fiscal, își pot exercita dreptul de deducere pentru achizițiile de bunuri și/sau servicii efectuate în perioada în care au avut codul de înregistrare în scopuri de TVA anulat, prin înscrierea taxei în primul decont de taxă prevăzut la art. 323 din Codul fiscal depus după reînregistrare sau, după caz, într-un decont ulterior. Deducerea taxei se efectuează în limitele și condițiile prevăzute la art. 297 - 302 din Codul fiscal, chiar dacă factura nu cuprinde codul de înregistrare în scopuri de TVA al persoanei impozabile.
-
-(2) După înregistrarea în scopuri de taxă conform art. 316 alin. (12) din Codul fiscal, persoana impozabilă trebuie să emită facturi în care să înscrie distinct taxa pe valoarea adăugată colectată aferentă livrărilor de bunuri/prestărilor de servicii taxabile efectuate în perioada în care au avut codul de înregistrare în scopuri de TVA anulat, care nu se înregistrează în decontul de taxă depus conform art. 323 din Codul fiscal, în secțiunea «Taxa pe valoarea adăugată colectată». În funcție de modalitatea în care au acționat pe perioada în care au avut codul de înregistrare în scopuri de TVA anulat, se disting următoarele situații:
-
-a) persoana impozabilă a colectat TVA pentru operațiunile taxabile, respectiv a depus declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, dar nu a emis facturi. În această situație, după reînregistrarea în scopuri de TVA, persoana impozabilă trebuie să emită facturi pentru livrările de bunuri/prestările de servicii efectuate în perioada în care a avut codul de înregistrare în scopuri de TVA anulat, care să includă informațiile obligatorii prevăzute la art. 319 alin. (20) din Codul fiscal, inclusiv taxa pe valoarea adăugată aferentă, care a fost colectată în perioada în care a avut codul de înregistrare în scopuri de TVA anulat. Aceste facturi nu se includ în decontul de taxă depus conform art. 323 din Codul fiscal, în secțiunea «Taxa pe valoarea adăugată colectată», dacă nu există diferențe între taxa colectată în perioada în care persoana impozabilă a avut codul de înregistrare în scopuri de TVA anulat și taxa înscrisă în facturile emise după reînregistrarea în scopuri de TVA a persoanei impozabile;
-
-b) persoana impozabilă a colectat TVA pentru operațiunile taxabile, respectiv a depus declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, și a emis facturi. În această situație, după reînregistrarea în scopuri de TVA, persoana impozabilă trebuie să emită facturi de corecție conform art. 330 alin. (1) lit. b) din Codul fiscal. În situația în care nu există diferențe între taxa colectată în perioada în care persoana impozabilă a avut codul de înregistrare în scopuri de TVA anulat și taxa înscrisă în facturile emise după reînregistrarea în scopuri de TVA a persoanei impozabile, facturile emise după reînregistrare nu se includ în decontul de taxă depus conform art. 323 din Codul fiscal, în secțiunea «Taxa pe valoarea adăugată colectată»;
-
-c) persoana impozabilă nu a colectat TVA pentru livrările de bunuri/prestările de servicii taxabile efectuate în perioada în care a avut codul de înregistrare în scopuri de TVA anulat, respectiv nu a depus declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, dar a emis facturi. În această situație, după reînregistrarea în scopuri de TVA, persoana impozabilă trebuie să emită facturi de corecție conform art. 330 alin. (1) lit. b) din Codul fiscal. Facturile de corecție nu se înscriu în decontul de taxă depus conform art. 323 din Codul fiscal, în secțiunea «Taxa pe valoarea adăugată colectată», dacă nu există diferențe între taxa pe care ar fi trebuit să o colecteze în perioada în care persoana impozabilă a avut codul de înregistrare în scopuri de TVA anulat și taxa înscrisă în facturile emise după reînregistrarea în scopuri de TVA a persoanei impozabile, ci în «Declarația privind taxa pe valoarea adăugată colectată datorată de către persoanele impozabile al căror cod de înregistrare în scopuri de taxă pe valoarea adăugată a fost anulat conform art. 316 alin. (11) lit. a) - e), lit. g) sau lit. h) din Legea nr. 227/2015 privind Codul fiscal». Persoana impozabilă datorează obligații fiscale accesorii conform art. 173 și 181 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare, de la data la care avea obligația să plătească TVA aferentă livrărilor de bunuri/prestărilor de servicii taxabile, efectuate în perioada în care a avut codul de înregistrare în scopuri de TVA anulat, și până la data plății taxei, în baza declarației sus-menționate;
-
-d) persoana impozabilă nu a colectat TVA pentru livrările de bunuri/prestările de servicii taxabile efectuate în perioada în care a avut codul de înregistrare în scopuri de TVA anulat, respectiv nu a depus declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal și nu a emis facturi. În această situație, facturile emise după reînregistrarea în scopuri de TVA nu se înscriu în decontul de taxă depus conform art. 323 din Codul fiscal, în secțiunea «Taxa pe valoarea adăugată colectată», dacă nu există diferențe între taxa pe care ar fi trebuit să o colecteze în perioada în care persoana impozabilă a avut codul de înregistrare în scopuri de TVA anulat și taxa înscrisă în facturile emise după reînregistrarea în scopuri de TVA a persoanei impozabile, ci în «Declarația privind taxa pe valoarea adăugată colectată datorată de către persoanele impozabile al căror cod de înregistrare în scopuri de taxă pe valoarea adăugată a fost anulat conform art. 316 alin. (11) lit. a) - e), lit. g) sau lit. h) din Legea nr. 227/2015 privind Codul fiscal». Persoana impozabilă datorează obligații fiscale accesorii conform art. 173 și 181 din Legea nr. 207/2015, cu modificările și completările ulterioare, de la data la care avea obligația să plătească TVA aferentă livrărilor de bunuri/prestărilor de servicii taxabile, efectuate în perioada în care a avut codul de înregistrare în scopuri de TVA anulat, și până la data plății taxei, în baza declarației sus-menționate.
-
-(3) În situațiile prevăzute la alin. (2), în cazul în care există diferențe între taxa colectată/care ar fi trebuit colectată în perioada în care persoana impozabilă a avut codul de înregistrare în scopuri de TVA anulat și taxa înscrisă în facturile emise după reînregistrarea în scopuri de TVA a persoanei impozabile, în decontul de TVA, în secțiunea «Taxa pe valoarea adăugată colectată», se înscriu numai aceste diferențe.
-
-(4) Prevederile alin. (2) se aplică în cazul în care persoana impozabilă se înregistrează în scopuri de TVA conform art. 316 alin. (12) din Codul fiscal începând cu 1 ianuarie 2017, în situația în care a avut codul de înregistrare în scopuri de TVA anulat în baza prevederilor art. 316 alin. (11) lit. a) - e) și h) din Codul fiscal, respectiv în baza prevederilor art. 153 alin. (9) lit. a) - e) și h) din Legea nr. 571/2003 privind Codul fiscal, cu modificările și completările ulterioare, în vigoare până la 1 ianuarie 2016.
-
-(5) Prevederile alin. (2) nu se aplică în situația în care persoana impozabilă nu are obligația de a emite facturi conform art. 319 din Codul fiscal.
-
-(6) În aplicarea prevederilor art. 11 alin. (7) și (9) din Codul fiscal, persoanele impozabile care au efectuat achiziții de la furnizori/prestatori în perioada în care aceștia au avut codul de înregistrare în scopuri de TVA anulat își exercită dreptul de deducere a TVA pentru achizițiile respective, în limitele și condițiile prevăzute la art. 297 - 302 din Codul fiscal, pe baza facturilor emise de furnizor/prestator conform alin. (2), prin înscrierea taxei în primul decont de taxă prevăzut la art. 323 depus după reînregistrarea furnizorului/prestatorului sau, după caz, într-un decont ulterior.
-
-(7) Exemple pentru aplicarea prevederilor alin. (2) referitoare la emiterea facturilor după înregistrarea în scopuri de TVA:
-
-Exemplul nr. 1: persoana impozabilă a colectat TVA pentru operațiunile taxabile, dar nu a emis facturi.
-
-1. Societatea X are codul de TVA anulat începând cu data de 1 septembrie 2016. În luna octombrie livrează către societatea Y 100 de utilaje a căror valoare înscrisă în contract era de 50.000 lei/bucată, care nu include TVA. Societatea X nu emite factură, dar depune declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal. Calculul taxei colectate de plată se va efectua astfel, ambele variante fiind corecte:
-
-A. Societatea X, având codul de TVA anulat, nu mai poate încasa de la client valoarea TVA și colectează TVA din totalul sumei aferente livrării, respectiv 5.000.000 lei x 20 / 120 = 833.333 lei TVA colectată. Având în vedere că furnizorul nu mai este înregistrat în scopuri de TVA, dacă beneficiarul nu mai acceptă ca la prețul din contract să se adauge și TVA, se consideră că prețul acceptat de beneficiar include TVA datorată de furnizor.
-
-B. Societatea X recuperează de la client și valoarea TVA, clientul acceptând să îi plătească suma de 6.000.000 lei, și colectează TVA aplicând 20% la totalul sumei aferente livrării, respectiv 5.000.000 lei x 20 / 100 = 1.000.000 lei.
-
-2. În cazul în care între societatea X și societatea Y nu există niciun contract sau contractul prevede că prețul include TVA sau nu menționează nimic cu privire la TVA, societatea X avea obligația de a plăti TVA din suma livrării. Astfel, dacă valoarea livrării este de 5.000.000, societatea X avea obligația de a plăti TVA de 833.333 lei.
-
-După reînregistrarea în scopuri de TVA, societatea X va emite facturi cu TVA astfel:
-
-1. În situația de la lit. A poate emite factura astfel: baza impozabilă 4.166.667 și TVA aferentă 833.333 lei, total factură 5.000.000 lei, factură care nu se înscrie în decontul de TVA de către furnizorul X, dar permite deducerea TVA la beneficiarul Y sau, dacă clientul este de acord să plătească în plus pe lângă prețul fără TVA și taxa aferentă, baza impozabilă înscrisă în factură va fi de 5.000.000 plus TVA de 1.000.000 lei. Diferența față de taxa colectată determinată la lit. A se înscrie în decontul de TVA în care este emisă factura respectivă astfel: 5.000.000 - 4.166.667 = 833.333 lei baza impozabilă și TVA aferentă 166.667 lei. Beneficiarul poate deduce TVA de 1.000.000 lei.
-
-În situația de la lit. B, societatea X va emite o factură corectă de 5.000.000 lei cu TVA de 1.000.000 lei, factură care nu se înscrie în decontul de TVA, în secțiunea "Taxa pe valoarea adăugată colectată", de către furnizorul X, care permite deducerea TVA la beneficiarul Y.
-
-2. Societatea X are obligația de a emite factură cu baza impozabilă de 4.166.667 lei și TVA 833.333 lei, factură care nu se înscrie în decontul de TVA, în secțiunea "Taxa pe valoarea adăugată colectată", de către furnizorul X, dar permite deducerea TVA la beneficiarul Y.
-
-Exemplul nr. 2: persoana impozabilă a colectat TVA pentru operațiunile taxabile și a emis facturi
-
-1. Prezentarea situației este aceeași ca la exemplul nr. 1, cu excepția faptului că în acest exemplu societatea X a emis facturi pe perioada în care a avut codul anulat. Calculul taxei colectate de plată se va efectua astfel, ambele variante de determinare a taxei colectate fiind corecte:
-
-A. În ipoteza în care valoarea livrării acceptată de beneficiar este de 5.000.000 lei, societatea X se poate regăsi în următoarele situații:
-
-- ori a emis factura de 5.000.000 lei, fără să înscrie TVA în factură și plătește TVA din această sumă, respectiv 833.333 lei (5.000.000 lei x 20 / 120),
-
-- ori a emis factura calculând TVA din suma facturată și înscriind această taxă în factură: respectiv bază 4.166.667 și TVA 833.333 lei.
-
-B. Societatea X recuperează de la client și valoarea TVA pe lângă prețul din contract, situație în care solicită clientului să îi plătească suma de 6.000.000 lei, și, referitor la facturare, se poate regăsi ori în situația în care a emis o factură de 6.000.000 lei, în care nu a evidențiat TVA, ori a facturat 5.000.000 lei plus TVA 1.000.000 lei, total factură 6.000.000 lei. Pe baza prevederilor contractuale, furnizorul consideră în această situație că are de plată suma de 1.000.000 lei TVA colectată.
-
-2. În cazul în care între societatea X și societatea Y nu există niciun contract sau contractul nu prevede dacă prețul include TVA sau nu menționează nimic cu privire la TVA, societatea X avea obligația de a plăti TVA din suma livrării. Astfel, dacă valoarea livrării este de 5.000.000, societatea X avea obligația de a plăti TVA de 833.333 lei.
-
-După reînregistrarea în scopuri de TVA, societatea X va emite facturi cu TVA astfel:
-
-1. În situația de la lit. A poate emite factura astfel:
-
-- o factură cu semnul minus, în funcție de modalitatea în care a facturat (cu sau fără TVA) și, separat sau pe aceeași factură, va factura cu plus, baza impozabilă de 4.166.667 și TVA aferentă 833.333 lei, total factură 5.000.000 lei. Factura nu se înscrie în decontul de TVA, în secțiunea «Taxa pe valoarea adăugată colectată», al societății X, dar permite deducerea TVA la beneficiarul Y; sau,
-
-- dacă clientul este de acord să plătească în plus pe lângă prețul fără TVA din contract și taxa aferentă, societatea X va emite o factură cu semnul minus, în funcție de modalitatea în care a facturat (cu sau fără TVA) și, separat sau pe aceeași factură, facturează cu plus baza impozabilă 5.000.000 plus TVA de 1.000.000 lei. Diferența față de taxa colectată inițial se înscrie de societatea X în decontul de TVA în care este emisă factura respectivă astfel: 5.000.000 - 4.166.667 = 833.333 lei baza impozabilă și TVA aferentă 166.667 lei. Beneficiarul poate deduce TVA de 1.000.000 lei.
-
-În situația de la lit. B, societatea X va emite o factură cu semnul minus, în funcție de modalitatea în care a facturat inițial (cu sau fără TVA), și facturează baza impozabilă 5.000.000 lei cu TVA de 1.000.000 lei.
-
-2. Societatea X are obligația de a emite factură cu semnul minus, în funcție de modalitatea în care a facturat (cu sau fără TVA) și, separat sau pe aceeași factură, facturează baza impozabilă de 4.166.667 lei și TVA 833.333 lei. Această factură nu se înscrie în decontul de TVA, în secțiunea «Taxa pe valoarea adăugată colectată», de către furnizorul X, dar permite deducerea TVA la beneficiarul Y.
-
-Exemplul nr. 3: persoana impozabilă nu a colectat TVA pentru operațiunile taxabile efectuate în perioada în care a avut codul de înregistrare în scopuri de TVA anulat, dar a emis facturi
-
-1. Societatea X are codul de TVA anulat începând cu data de 1 septembrie 2016. În luna octombrie livrează către societatea Y 100 de utilaje a căror valoarea înscrisă în contract era de 50.000 lei/bucată, exclusiv TVA. Societatea X emite factură, dar nu depune declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal. Facturile au fost emise în următoarele variante:
-
-A. În ipoteza în care valoarea livrării acceptată de beneficiar este de 5.000.000 lei, societatea X se poate regăsi în următoarele situații:
-
-- ori a emis factura de 5.000.000 lei, fără să înscrie în factură taxa datorată de 833.333 lei,
-
-- ori a emis factura calculând TVA din suma facturată și înscriind acest TVA în factură: respectiv bază 4.166.667 și TVA 833.333 lei.
-
-B. Societatea X recuperează de la client și valoarea TVA pe lângă prețul din contract, situație în care solicită clientului să îi plătească suma de 6.000.000 lei, și, referitor la facturare, se poate regăsi ori în situația în care a emis o factură de 6.000.000 lei, în care nu a evidențiat TVA, ori a facturat 5.000.000 lei plus TVA 1.000.000 lei, total factură 6.000.000 lei.
-
-2. În cazul în care între societatea X și societatea Y nu există niciun contract sau contractul nu prevede dacă prețul include TVA sau nu menționează nimic cu privire la TVA, societatea X avea obligația de a plăti TVA din suma livrării. Astfel, dacă valoarea livrării este de 5.000.000, avea obligația de a plăti TVA de 833.333 lei.
-
-După reînregistrarea în scopuri de TVA, societatea X va emite facturi cu TVA astfel:
-
-1. În situația de la lit. A poate emite factura astfel:
-
-- o factură cu semnul minus, în funcție de modalitatea în care a facturat (cu sau fără TVA) și, separat sau pe aceeași factură, va factura cu plus baza impozabilă 4.166.667 și TVA aferentă 833.333 lei, total factură 5.000.000 lei. Factura nu se înscrie în decontul de TVA al societății X, în secțiunea «Taxa pe valoarea adăugată colectată», ci în declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, dar permite deducerea TVA la beneficiarul Y;
-
-- dacă clientul este de acord să plătească în plus pe lângă prețul fără TVA din contract și taxa aferentă, societatea X va emite o factură cu semnul minus, în funcție de modalitatea în care a facturat (cu sau fără TVA) și, separat sau pe aceeași factură, facturează cu plus baza impozabilă 5.000.000 plus TVA de 1.000.000 lei. Diferența față de taxa care ar fi trebuit colectată inițial se înscrie de societatea X în decontul de TVA în care este emisă factura respectivă astfel: 5.000.000 - 4.166.667 = 833.333 lei baza impozabilă și TVA aferentă 166.667 lei. Beneficiarul poate deduce TVA de 1.000.000 lei. Taxa care ar fi trebuit colectată de 833.333 lei se va plăti pe baza Declarației privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, în timp ce diferența de 166.667 lei se înscrie în decont.
-
-În situația de la lit. B, societatea X va emite o factură cu semnul minus, în funcție de modalitatea în care a facturat inițial (cu sau fără TVA), și facturează baza impozabilă 5.000.000 lei cu TVA de 1.000.000 lei.
-
-2. Societatea X are obligația de a emite factură cu semnul minus, în funcție de modalitatea în care a facturat (cu sau fără TVA) și, separat sau pe aceeași factură, facturează baza impozabilă de 4.166.667 lei și TVA 833.333 lei. Această factură nu se înscrie în decontul de TVA, în secțiunea «Taxa pe valoarea adăugată colectată», de către furnizorul X, ci în declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, dar permite deducerea TVA la beneficiarul Y.
-
-Exemplul nr. 4: persoana impozabilă nu a colectat TVA pentru operațiunile taxabile și nici nu a emis facturi
-
-1. Societatea X are codul de TVA anulat începând cu data de 1 septembrie 2016. În luna octombrie livrează către societatea Y 100 de utilaje a căror valoarea înscrisă în contract era de 50.000 lei/bucată, exclusiv TVA. Societatea X nu emite factură și nu depune declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal.
-
-După reînregistrarea în scopuri de TVA, societatea X va emite facturi cu TVA astfel:
-
-a) dacă clientul nu este de acord să plătească TVA, societatea X facturează baza impozabilă 4.166.667 și TVA aferentă 833.333 lei, total factură 5.000.000 lei, factură care nu se înscrie în decontul de TVA, ci în declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, dar permite deducerea TVA la beneficiarul Y;
-
-b) dacă clientul este de acord să plătească în plus pe lângă prețul fără TVA din contract și taxa aferentă, societatea X facturează baza impozabilă 5.000.000 lei plus TVA 1.000.000 lei, total factură 6.000.000 lei, factură care nu se înscrie în decontul de TVA, dar permite deducerea TVA la beneficiarul Y. Diferența de 166.667 lei față de taxa care ar fi trebuit colectată, respectiv 833.333 lei, pornind de la premisa că anterior reînregistrării societății X beneficiarul nu ar fi fost de acord să îi achite acestuia decât valoarea bunurilor exclusiv TVA (5.000.000 lei), se va înscrie în decontul de TVA în care este emisă factura respectivă astfel: 5.000.000 - 4.166.667 = 833.333 lei baza impozabilă și TVA aferentă 166.667 lei. Beneficiarul poate deduce TVA de 1.000.000 lei. Diferența de taxă de 833.333 lei se va plăti pe baza declarației privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal.
-
-2. În cazul în care între societatea X și societatea Y nu există niciun contract sau contractul nu prevede dacă prețul include TVA sau nu menționează nimic cu privire la TVA, societatea X avea obligația de a plăti TVA din suma livrării. Astfel, dacă valoarea livrării este de 5.000.000 lei, societatea X ar fi trebuit să colecteze TVA de 833.333 lei. După înregistrarea în scopuri de TVA, societatea X are obligația de a emite factură cu baza impozabilă de 4.166.667 lei și TVA 833.333 lei, factură care nu se înscrie în decontul de TVA, în secțiunea «Taxa pe valoarea adăugată colectată», de către furnizorul X, ci în declarația privind taxa pe valoarea adăugată colectată care trebuie plătită conform art. 11 alin. (6) și (8) din Codul fiscal, dar permite deducerea TVA la beneficiarul Y.
 
 SECȚIUNEA a 3-a - Scutirea de impozit a profitului reinvestit
 
@@ -23907,7 +24119,6 @@ SUBSECȚIUNEA a 3-a - Condiții de distribuție și comercializare
 
 Ordin nr. 2329/2016 din 5 august 2016 privind modificarea și completarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 1849/2016 pentru pentru aprobarea Procedurii de înregistrare a operatorilor economici care comercializează în sistem angro sau en detail produse energetice - benzine, motorine, petrol lampant, gaz petrolier lichefiat și biocombustibili, precum și pentru aprobarea modelului și conținutului unor formulare, precum și pentru modificarea Ordinului președintelui Agenției Naționale de Administrare Fiscală nr. 1850/2016 pentru aprobarea Procedurii de înregistrare a activității de distribuție ți comercializare angro de băuturi alcoolice și/sau tutun prelucrat, precum și pentru aprobarea modelului și conținutului unor formulare.
 
-NOT
 (3) Intră sub incidența prevederilor art. 435 alin. (6) din Codul fiscal toate băuturile alcoolice, respectiv: bere, vinuri, băuturi fermentate - altele decât bere și vinuri, produse intermediare, băuturi alcoolice din grupa alcoolului etilic.
 
 (4) În situația realizării băuturilor alcoolice sub licență, livrările sunt însoțite de o copie a documentului din care rezultă dreptul producătorului de a utiliza marca protejată. Documentul care atestă dreptul de a produce băuturi alcoolice sub licență poate fi unul din următoarele: contract de licență, cesiune, consimțământ scris din partea titularului mărcii sau declarația producătorului înregistrat în România din care să rezulte că acesta fabrică sortimentele respective, concret nominalizate în baza contractelor de licență.
