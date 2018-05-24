@@ -1,11 +1,11 @@
 Legea nr. 227/2015 privind Codul fiscal
-ultima actualizare : Ordonanța de urgență a Guvernului nr. 79/2017 din 8 noiembrie 2017
+ultima actualizare : Ordonanța de urgență a Guvernului nr. 3/2018 din 8 februarie 2018
 
 Ediție adnotată cu Normele metodologice aprobate prin H.G. 1/2016,
 ultima actualizare : Hotărârea Guvernului nr. 284 din 27 aprilie 2017
 
 precum și cu ordinele pentru aplicarea Codului fiscal
-emise până la data de 26 ianuarie 2018
+emise până la data de 2 martie 2018
 
 Textul este actualizat prin mijloace informatice și nu reprezintă o republicare.
 
@@ -3364,6 +3364,8 @@ Ordin nr. 726/2016 din 17 februarie 2016 pentru aprobarea modelului și conținu
 
 Ordin nr. 240/2017 din 6 februarie 2017 privind indicele prețurilor de consum utilizat pentru actualizarea plăților anticipate în contul impozitului pe profit anual pentru anul fiscal 2017.
 
+Ordin ministrului finanțelor publice nr. 1453/2018 din 13 februarie 2018 privind indicele prețurilor de consum utilizat pentru actualizarea plăților anticipate în contul impozitului pe profit anual.
+
 (3) Opțiunea pentru sistemul anual de declarare și plată a impozitului pe profit se efectuează la începutul anului fiscal pentru care se solicită aplicarea prevederilor alin. (2). Opțiunea este obligatorie pentru cel puțin 2 ani fiscali consecutivi. Ieșirea din sistemul anual de declarare și plată a impozitului se efectuează la începutul anului fiscal pentru care se solicită aplicarea prevederilor alin. (1). Contribuabilii comunică organelor fiscale competente modificarea sistemului anual/trimestrial de declarare și plată a impozitului pe profit, potrivit prevederilor Codului de procedură fiscală, până la data de 31 ianuarie inclusiv a anului fiscal respectiv. Contribuabilii care intră sub incidența prevederilor art. 16 alin. (5) comunică organelor fiscale teritoriale modificarea sistemului anual/trimestrial de declarare și plată a impozitului pe profit, în termen de 30 de zile de la începutul anului fiscal modificat.
 
 Ordin nr. 726/2016 din 17 februarie 2016 pentru aprobarea modelului și conținutului formularului (012) "Notificare privind modificarea sistemului anual/trimestrial de declarare și plată a impozitului pe profit"
@@ -3373,6 +3375,8 @@ Ordin nr. 726/2016 din 17 februarie 2016 pentru aprobarea modelului și conținu
 Ordin nr. 236/2016 din 19 februarie 2016 privind indicele prețurilor de consum utilizat pentru actualizarea plăților anticipate în contul impozitului pe profit anual
 
 Ordin nr. 240/2017 din 6 februarie 2017 privind indicele prețurilor de consum utilizat pentru actualizarea plăților anticipate în contul impozitului pe profit anual pentru anul fiscal 2017.
+
+Ordin ministrului finanțelor publice nr. 1453/2018 din 13 februarie 2018 privind indicele prețurilor de consum utilizat pentru actualizarea plăților anticipate în contul impozitului pe profit anual.
 
 (5) Următorii contribuabili au obligația de a declara și plăti impozitul pe profit, astfel:
 
@@ -3399,6 +3403,8 @@ d) au fost plătitori de impozit pe veniturile microîntreprinderilor.
 Ordin nr. 236/2016 din 19 februarie 2016 privind indicele prețurilor de consum utilizat pentru actualizarea plăților anticipate în contul impozitului pe profit anual
 
 Ordin nr. 240/2017 din 6 februarie 2017 privind indicele prețurilor de consum utilizat pentru actualizarea plăților anticipate în contul impozitului pe profit anual pentru anul fiscal 2017.
+
+Ordin ministrului finanțelor publice nr. 1453/2018 din 13 februarie 2018 privind indicele prețurilor de consum utilizat pentru actualizarea plăților anticipate în contul impozitului pe profit anual.
 
 (9) În cazul contribuabililor care aplică reglementările contabile conforme cu Standardele internaționale de raportare financiară, plățile anticipate trimestriale se efectuează în sumă de o pătrime din impozitul pe profit aferent anului precedent determinat potrivit alin. (8), fără a lua în calcul influența ce provine din aplicarea prevederilor art. 21.
 
@@ -3450,7 +3456,11 @@ Nu intră sub incidența acestor prevederi contribuabilii care se dizolvă cu li
 
 (20) Pentru aplicarea sistemului de declarare și plată a impozitului pe profit anual, cu plăți anticipate efectuate trimestrial, indicele prețurilor de consum necesar pentru actualizarea plăților anticipate se comunică, prin ordin al ministrului finanțelor publice, până la data de 15 aprilie a anului fiscal pentru care se efectuează plățile anticipate.
 
+Ordin nr. 236/2016 din 19 februarie 2016 privind indicele prețurilor de consum utilizat pentru actualizarea plăților anticipate în contul impozitului pe profit anual
+
 Ordin nr. 240/2017 din 6 februarie 2017 privind indicele prețurilor de consum utilizat pentru actualizarea plăților anticipate în contul impozitului pe profit anual pentru anul fiscal 2017.
+
+Ordin ministrului finanțelor publice nr. 1453/2018 din 13 februarie 2018 privind indicele prețurilor de consum utilizat pentru actualizarea plăților anticipate în contul impozitului pe profit anual.
 
 ART. 42 - Depunerea declarației de impozit pe profit
 
@@ -5860,7 +5870,7 @@ m) indemnizațiile și orice alte sume de aceeași natură, altele decât cele a
 
 n) remunerația primită de președintele asociației de proprietari sau de alte persoane, în baza contractului de mandat, potrivit Legii nr. 230/2007, cu modificările și completările ulterioare; Norme metodologice
 
-o) indemnizațiile de asigurări sociale de sănătate suportate de angajator sau din Fondul național unic de asigurări sociale de sănătate, potrivit legii, primite pe perioada în care persoanele fizice care realizează venituri din salarii sau asimilate salariilor beneficiază de concedii medicale și de indemnizații de asigurări sociale de sănătate, pentru care baza lunară de calcul al contribuției de asigurări sociale este suma reprezentând 35% din câștigul salarial mediu brut, prevăzut la art. 143 alin. (2), corespunzător numărului zilelor lucrătoare din concediul medical;
+o) indemnizațiile de asigurări sociale de sănătate suportate de angajator sau din Fondul național unic de asigurări sociale de sănătate, potrivit legii, primite pe perioada în care persoanele fizice care realizează venituri din salarii sau asimilate salariilor beneficiază de concedii medicale și de indemnizații de asigurări sociale de sănătate, conform prevederilor legale;
 
 p) sumele primite de reprezentanții în organisme tripartite, potrivit legii;
 
@@ -5962,13 +5972,13 @@ ART. 143 - Baza de calcul al contribuției de asigurări sociale datorate pentru
 
 (3) Contribuția de asigurări sociale pentru șomerii care beneficiază de indemnizație de șomaj se suportă integral din bugetul asigurărilor pentru șomaj la nivelul cotei stabilite pentru condiții normale de muncă.
 
-(4) Pe perioada în care șomerii beneficiază de concedii medicale și de indemnizații de asigurări sociale de sănătate, cu excepția cazurilor de accident de muncă sau boală profesională, baza lunară de calcul al contribuției de asigurări sociale datorate bugetului asigurărilor sociale de stat este suma reprezentând 35% din câștigul salarial mediu brut, prevăzut la alin. (2), corespunzător numărului zilelor lucrătoare din concediul medical, iar contribuția de asigurări sociale se suportă la nivelul cotei stabilite pentru condiții normale de muncă.
+(4) Pe perioada în care șomerii beneficiază de concedii medicale și de indemnizații de asigurări sociale de sănătate, cu excepția cazurilor de accident de muncă sau boală profesională, baza lunară de calcul al contribuției de asigurări sociale datorate bugetului asigurărilor sociale de stat este suma reprezentând indemnizația de asigurări sociale de sănătate de care beneficiază conform prevederilor legale, iar contribuția de asigurări sociale se suportă la nivelul cotei prevăzute la art. 138 lit. a) și se reține din indemnizația de asigurări sociale de sănătate.
 
 (5) Contribuția de asigurări sociale pentru persoanele care beneficiază de plăți compensatorii acordate potrivit legii din bugetul asigurărilor pentru șomaj se suportă din bugetul asigurărilor pentru șomaj, potrivit legii, la nivelul cotei contribuției de asigurări sociale prevăzute la art. 138 lit. a), cu excepția cazurilor în care, potrivit prevederilor legale, se dispune altfel.
 
 ART. 144 - Baza de calcul al contribuției de asigurări sociale datorate pentru persoanele fizice care beneficiază de indemnizații de asigurări sociale de sănătate
 
-Pe perioada în care persoanele fizice prevăzute la art. 136 lit. e) beneficiază de concedii medicale și de indemnizații de asigurări sociale de sănătate, baza lunară de calcul al contribuției de asigurări sociale datorate bugetului asigurărilor sociale de stat este suma reprezentând 35% din câștigul salarial mediu brut, prevăzut la art. 143 alin. (2), corespunzător numărului zilelor lucrătoare din concediul medical.
+Pe perioada în care persoanele fizice prevăzute la art. 1 alin. (2), art. 23 alin. (2) și la art. 32 din Ordonanța de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, aprobată cu modificări și completări prin Legea nr. 399/2006, cu modificările și completările ulterioare, beneficiază de concedii medicale și de indemnizații de asigurări sociale de sănătate, baza lunară de calcul al contribuției de asigurări sociale datorate bugetului asigurărilor sociale de stat este suma reprezentând indemnizația de asigurări sociale de sănătate de care beneficiază conform prevederilor legale, iar contribuția de asigurări sociale se suportă la nivelul cotei prevăzute la art. 138 lit. a) și se reține din indemnizația de asigurări sociale de sănătate.
 
 ART. 145 - Baza de calcul al contribuției de asigurări sociale datorate pentru persoanele fizice prevăzute la art. 136 lit. f)
 
@@ -6013,6 +6023,8 @@ d) au calitatea de pensionari pentru limită de vârstă în sistemul public de 
 e) realizează în cursul aceleiași luni venituri din salarii sau asimilate salariilor în baza a două sau mai multe contracte individuale de muncă, iar baza lunară de calcul cumulată aferentă acestora este cel puțin egală cu salariul de bază minim brut pe țară.
 
 (53) În aplicarea prevederilor alin. (52), angajatorul solicită documente justificative persoanelor fizice aflate în situațiile prevăzute la alin. (52) lit. a), c) și d), iar în cazul situației prevăzute la alin. (52) lit. e), procedura de aplicare se stabilește prin ordin al ministrului finanțelor publice.
+
+(54) ÃŽn cazul în care contribuția de asigurări sociale calculată potrivit alin. (5) este mai mică decât contribuția de asigurări sociale stabilită potrivit alin. (5^1), diferența se plătește de către angajator/plătitorul de venit în numele angajatului/beneficiarului de venit.
 
 (6) Pentru persoanele prevăzute la art. 136 lit. d) - f), în cazul în care din calcul rezultă o bază lunară de calcul mai mare decât valoarea a de 5 ori câștigul salarial mediu brut, prevăzut la art. 143 alin. (2), cota contribuției de asigurări sociale se aplică asupra echivalentului a de 5 ori câștigul salarial mediu brut, pe fiecare loc de realizare al venitului. Norme metodologice
 
@@ -6070,7 +6082,7 @@ Ordin nr. 3249/2016 din 03 noiembrie 2016 privind modificarea și completarea Or
 
 (17) Modelul, conținutul, modalitatea de depunere și de gestionare a declarației prevăzute la alin. (1) sunt reglementate prin ordin comun al ministrului finanțelor publice, al ministrului muncii, familiei, protecției sociale și persoanelor vârstnice și al ministrului sănătății.
 
-Ordinul ministrului finanțelor publice nr. 1024/2017, ordinul ministrului muncii și justiției sociale nr. 1582/2017, ordinul ministrului sănătății nr. 934/2017 pentru aprobarea modelului, conținutului, modalității de depunere și de gestionare a "Declarației privind obligațiile de plată a contribuțiilor sociale, impozitului pe venit și evidența nominală a persoanelor asigurate".
+Ordinul comun al ministrului finanțelor publice, al ministrului muncii și justiției sociale și al ministrului sănătății nr. 1209/999/180/2018 pentru aprobarea modelului, conținutului, modalității de depunere și de gestionare a "Declarației privind obligațiile de plată a contribuțiilor sociale, impozitului pe venit și evidența nominală a persoanelor asigurate".
 
 (18) Evidența obligațiilor de plată a contribuției de asigurări sociale datorate de angajatori și asimilații acestora se ține pe baza codului de identificare fiscală, iar cea privind contribuția de asigurări sociale datorată de persoanele fizice care au calitatea de angajați sau pentru care există obligația plății contribuției de asigurări sociale, potrivit prezentei legi, pe baza codului numeric personal sau pe baza numărului de identificare fiscală, după caz.
 
@@ -6113,6 +6125,8 @@ c) valoarea lunară a normelor de venit, obținută prin raportarea normelor anu
 d) venitul net lunar realizat în anul precedent, rămas după scăderea din venitul brut a cheltuielii deductibile prevăzute la art. 70, raportat la numărul lunilor de activitate din cursul anului, este cel puțin egal cu nivelul salariului de bază minim brut pe țară în vigoare în luna ianuarie a anului pentru care se stabilește contribuția, în cazul contribuabililor care realizează venituri din drepturi de proprietate intelectuală pentru care impozitul pe venit se stabilește potrivit prevederilor art. 72 și 73.
 
 (3) Persoanele fizice prevăzute la alin. (1), obligate la plata contribuției, depun anual la organul fiscal competent, până la data de 31 ianuarie inclusiv a anului pentru care se stabilește contribuția de asigurări sociale, declarația privind venitul asupra căruia datorează contribuția, ca urmare a îndeplinirii condițiilor prevăzute la alin. (2).
+
+Ordonanța de urgență a Guvernului nr. 2/2018 pentru prorogarea unor termene prevăzute în Legea nr. 227/2015 privind Codul fiscal
 
 (4) În cazul contribuabililor prevăzuți la alin. (1) care încep să desfășoare activitate în cursul anului fiscal, iar venitul lunar estimat a se realiza, potrivit art. 120, din una sau mai multe surse de venit din cele menționate la alin. (2), este cel puțin egal cu nivelul salariului de bază minim brut pe țară în vigoare în luna în care se estimează veniturile, declarația prevăzută la alin. (3) se depune în termen de 30 de zile de la data producerii evenimentului.
 
@@ -6350,7 +6364,7 @@ ART. 168 - Stabilirea și plata contribuției de asigurări sociale de sănătat
 
 (5) Calculul contribuției de asigurări sociale de sănătate se realizează prin aplicarea cotei prevăzute la art. 156 asupra bazei lunare de calcul menționate la art. 157.
 
-(51) Prevederile art. 146 alin. (51) - (53) se aplică în mod corespunzător.
+(51) Prevederile art. 146 alin. (51) - (54) se aplică în mod corespunzător.
 
 (6) *** A B R O G A T ***
 
@@ -6436,6 +6450,8 @@ f) venitul brut/venitul impozabil din alte surse, stabilit potrivit art. 114 - 1
 (3) Încadrarea în plafonul anual prevăzut la art. 155 alin. (2) se efectuează prin însumarea veniturilor anuale menționate la alin. (2), realizate în anul fiscal precedent.
 
 (4) Persoanele fizice prevăzute la art. 155 alin. (2), obligate la plata contribuției de asigurări sociale de sănătate, depun anual la organul fiscal competent, până la data de 31 ianuarie inclusiv a anului pentru care se stabilește contribuția de asigurări sociale de sănătate, declarația cu privire la încadrarea veniturilor realizate în plafonul lunar, în conformitate cu alin. (3).
+
+Ordonanța de urgență a Guvernului nr. 2/2018 pentru prorogarea unor termene prevăzute în Legea nr. 227/2015 privind Codul fiscal
 
 (5) În cazul contribuabililor care încep să desfășoare activitate sau încep să realizeze venituri în cursul anului fiscal, iar venitul lunar estimat a se realiza, potrivit art. 120, din una sau mai multe surse de venit din cele menționate la alin. (2), este cel puțin egal cu nivelul salariului de bază minim brut pe țară în vigoare în luna în care se estimează veniturile, declarația prevăzută la alin. (4) se depune în termen de 30 de zile de la data producerii evenimentului.
 
@@ -7725,8 +7741,6 @@ NOTĂ : Ordonanța Guvernului nr. 23/2017 privind plata defalcată a TVA.
 
 Legea nr. 275/2017 pentru aprobarea Ordonanței Guvernului nr. 23/2017 privind plata defalcată a TVA
 
-Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2743/2017 pentru aprobarea modelului, conținutului și instrucțiunilor de completare ale formularului (086) "Notificare privind opțiunea de aplicare a mecanismului de plată defalcată a TVA"
-
 Ordinul ministrului finanțelor publice nr. 2426/2017 pentru completarea Normelor metodologice privind execuția bugetelor de venituri și cheltuieli ale instituțiilor publice autonome, instituțiilor publice finanțate integral sau parțial din venituri proprii și activităților finanțate integral din venituri proprii, inclusiv a bugetelor creditelor interne, bugetelor creditelor externe, bugetelor fondurilor externe nerambursabile, bugetelor fondului de risc și bugetelor privind activitatea de privatizare, gestionate de instituțiile publice, indiferent de modalitatea de organizare și finanțare a acestora, aprobate prin Ordinul ministrului delegat pentru buget nr. 720/2014
 
 Ordinul ministrului finanțelor publice nr. 2540/2017 pentru completarea Normelor metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 146/2002 privind formarea și utilizarea resurselor derulate prin trezoreria statului, aprobată cu modificări prin Legea nr. 201/2003, aprobate prin Ordinul ministrului finanțelor publice nr. 1235/2003
@@ -7744,6 +7758,12 @@ Ordinul ministrului finanțelor publice nr. 2768/2017 pentru aprobarea Precizăr
 Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 2932/2017 privind completarea unor acte normative în domeniul administrării și monitorizării contribuabililor mari și mijlocii
 
 Ordinul ministrului finanțelor publice nr. 2800/2017 pentru aprobarea Procedurii privind anularea penalităților de întârziere aferente obligațiilor fiscale principale reprezentând TVA, în cazul contribuabililor care optează pentru plata defalcată a TVA, precum și pentru aprobarea modelului și conținutului unor formulare
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 223/2018 pentru aprobarea modelului, conținutului și instrucțiunilor de completare ale formularului (086) "Notificare privind aplicarea/renunțarea la aplicarea mecanismului de plată defalcată a TVA"
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 565/2018 pentru aprobarea Procedurii de organizare și funcționare a Registrului persoanelor care aplică plata defalcată a TVA
+
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 566/2018 pentru aprobarea modelului și conținutului unor formulare utilizate pentru gestionarea Registrului persoanelor care aplică plata defalcată a TVA și a procedurii de emitere a acestor formulare
 
 
 CAPITOLUL I - Definiții
@@ -10258,11 +10278,11 @@ a) taxa colectată care trebuie plătită în conformitate cu prevederile art. 1
 
 b) taxa colectată care trebuie plătită pentru livrări de bunuri/prestări de servicii efectuate înainte de anularea înregistrării în scopuri de TVA a persoanelor impozabile care au aplicat sistemul TVA la încasare, dar a căror exigibilitate de taxă potrivit art. 282 alin. (3) - (8) intervine în perioada în care persoana impozabilă nu are un cod valabil de TVA.
 
-Ordin nr. 795/2016 din 19 februarie 2016 pentru aprobarea modelului și conținutului formularului (311) "Declarație privind taxa pe valoarea adăugată colectată datorată de către persoanele impozabile al căror cod de înregistrare în scopuri de taxă pe valoarea adăugată a fost anulat conform art. 316 alin. (11) lit. a) - e), lit. g) sau lit. h) din Legea nr. 227/2015 privind Codul fiscal"
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 188/2018 din 22 ianuarie 2018 pentru aprobarea modelului și conținutului formularului (311) "Declarație privind taxa pe valoarea adăugată colectată datorată de către persoanele impozabile al căror cod de înregistrare în scopuri de taxă pe valoarea adăugată a fost anulat conform art. 316 alin. (11) lit. a) - e), lit. g) sau lit. h) din Legea nr. 227/2015 privind Codul fiscal"
 
 (11) Persoanele impozabile care au aplicat sistemul TVA la încasare și al căror cod de înregistrare în scopuri de TVA a fost anulat potrivit prevederilor art. 316 alin. (11) lit. g) trebuie să depună o declarație privind taxa colectată care trebuie plătită, până la data de 25 inclusiv a lunii următoare celei în care a intervenit exigibilitatea taxei pentru livrări de bunuri/prestări de servicii efectuate înainte de anularea înregistrării în scopuri de TVA, dar a căror exigibilitate de taxă potrivit art. 282 alin. (3) - (8) intervine în perioada în care persoana impozabilă nu are un cod valabil de TVA.
 
-Ordin nr. 795/2016 din 19 februarie 2016 pentru aprobarea modelului și conținutului formularului (311) "Declarație privind taxa pe valoarea adăugată colectată datorată de către persoanele impozabile al căror cod de înregistrare în scopuri de taxă pe valoarea adăugată a fost anulat conform art. 316 alin. (11) lit. a) - e), lit. g) sau lit. h) din Legea nr. 227/2015 privind Codul fiscal"
+Ordinul președintelui Agenției Naționale de Administrare Fiscală nr. 188/2018 din 22 ianuarie 2018 pentru aprobarea modelului și conținutului formularului (311) "Declarație privind taxa pe valoarea adăugată colectată datorată de către persoanele impozabile al căror cod de înregistrare în scopuri de taxă pe valoarea adăugată a fost anulat conform art. 316 alin. (11) lit. a) - e), lit. g) sau lit. h) din Legea nr. 227/2015 privind Codul fiscal"
 
 (12) Persoana impozabilă prevăzută la art. 282 alin. (3) lit. a), care optează să aplice sistemul TVA la încasare potrivit prevederilor art. 282 alin. (3) - (8), trebuie să depună la organele fiscale competente, până la data de 25 ianuarie inclusiv, o notificare din care să rezulte că cifra de afaceri din anul calendaristic precedent, determinată potrivit prevederilor art. 282 alin. (3) lit. a), nu depășește plafonul de 2.250.000 lei și că optează pentru aplicarea sistemului TVA la încasare. Se consideră că persoana impozabilă a optat în mod tacit pentru continuarea aplicării sistemului TVA la încasare, neavând obligația să depună notificarea, dacă în anul precedent a aplicat sistemul TVA la încasare și cifra sa de afaceri nu a depășit plafonul de 2.250.000 lei. Persoana impozabilă prevăzută la art. 282 alin. (3) lit. b), care optează să aplice sistemul TVA la încasare potrivit prevederilor art. 282 alin. (3) - (8), trebuie să depună la organele fiscale competente o notificare din care să rezulte că optează pentru aplicarea sistemului TVA la încasare din momentul înregistrării sale în scopuri de TVA conform art. 316 . Norme metodologice
 
@@ -13955,9 +13975,13 @@ a) depunerea peste termen a declarațiilor de impunere prevăzute la art. 461 al
 
 b) nedepunerea declarațiilor de impunere prevăzute la art. 461 alin. (2), (6), (7), alin. (10) lit. c), alin. (12) și (13), art. 466 alin. (2), (5) și alin. (7) lit. c), alin. (9) și (10), art. 471 alin. (2), (4), (5) și alin. (6) lit. b) și c), art. 474 alin. (7) lit. c), alin. (11), art. 478 alin. (5) și art. 483 alin. (2).
 
+Hotărârea Guvernului nr. 33/2018 din 25 ianuarie 2018 privind stabilirea contravențiilor care intră sub incidența Legii prevenirii nr. 270/2017, precum și a modelului planului de remediere
+
 (3) Contravenția prevăzută la alin. (2) lit. a) se sancționează cu amendă de la 70 lei la 279 lei, iar cele de la alin. (2) lit. b) cu amendă de la 279 lei la 696 lei.
 
 (4) Încălcarea normelor tehnice privind tipărirea, înregistrarea, vânzarea, evidența și gestionarea, după caz, a abonamentelor și a biletelor de intrare la spectacole constituie contravenție și se sancționează cu amendă de la 325 lei la 1.578 lei.
+
+Hotărârea Guvernului nr. 33/2018 din 25 ianuarie 2018 privind stabilirea contravențiilor care intră sub incidența Legii prevenirii nr. 270/2017, precum și a modelului planului de remediere
 
 (41) Necomunicarea informațiilor și a documentelor de natura celor prevăzute la art. 494 alin. (12) în termen de cel mult 15 zile lucrătoare de la data primirii solicitării constituie contravenție și se sancționează cu amendă de la 500 la 2.500 lei.
 
